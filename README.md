@@ -9,13 +9,22 @@ You should find the papers and software with star flag are more important or pop
 
 ## Table of Contents [TODO]
 
-- [Papers](#papers)
-- [Model Zoo](#model-zoo)
-- [Pretrained Model](#pre-trained-model)
-- [Courses](#courses)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Software](#software)
-- [Applications](#applications)
-- [Awesome Projects](#awesome-projects)
-- [Corpus](#corpus)
+**ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
+
+Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code: [https://github.com/yeshenpy/ERL-Re2](https://github.com/yeshenpy/ERL-Re2)
+
+**AAAI 2020** PDERL：Proximal Distilled Evolutionary Reinforcement Learning
+
+Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code: [https://github.com/crisbodnar/pderl](https://github.com/crisbodnar/pderl)
+
+**ICML 2019** Collaborative Evolutionary Reinforcement Learning 
+
+Arxiv: [https://arxiv.org/abs/1905.00976](https://arxiv.org/abs/1905.00976) Code: [https://github.com/intelai/cerl](https://github.com/intelai/cerl)
+
+**ICLR 2019** CEM-RL: Combining evolutionary and gradient-based methods for policy search
+
+Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
+
+**NeurIPS 2018** Evolution-Guided Policy Gradient in Reinforcement Learning
+
+Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
