@@ -9,9 +9,23 @@ You should find the papers and software with star flag are more important or pop
 
 ## Table of Contents [TODO]
 
+### Single agent For Policy Optimization
+
 **ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
 
 Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code: [https://github.com/yeshenpy/ERL-Re2](https://github.com/yeshenpy/ERL-Re2)
+
+**ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
+
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: None
+
+**ICLR 2021** Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
+
+OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: None
+
+**ICLR 2021 submission** PGPS : Coupling Policy Gradient with Population-based Search
+
+OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py]
 
 **AAAI 2020** PDERL：Proximal Distilled Evolutionary Reinforcement Learning
 
@@ -28,3 +42,7 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 **NeurIPS 2018** Evolution-Guided Policy Gradient in Reinforcement Learning
 
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
+
+### Multi-Agent For Policy Optimization
+
+
