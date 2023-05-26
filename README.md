@@ -15,17 +15,29 @@ You should find the papers and software with star flag are more important or pop
 
 Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code: [https://github.com/yeshenpy/ERL-Re2](https://github.com/yeshenpy/ERL-Re2)
 
+**AAMAS 2022** Off-policy evolutionary reinforcement learning with maximum mutations
+
+Arxiv: [https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_pages/temp4.pdf](https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_pages/temp4.pdf) Code: Not Found
+
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
-Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: None
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: Not Found
+
+**Preprint** Evolutionary action selection for gradient-based policy learning
+
+Arxiv: [https://arxiv.org/abs/2201.04286v1](https://arxiv.org/abs/2201.04286v1) Code: Not Found
 
 **ICLR 2021** Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
 
-OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: None
+OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: Not Found
 
 **ICLR 2021 submission** PGPS : Coupling Policy Gradient with Population-based Search
 
 OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py]
+
+**ICML 2020** Competitive and cooperative heterogeneous deep reinforcement learning
+
+Arxiv: [https://arxiv.org/abs/2011.00791](https://arxiv.org/abs/2011.00791) Code: Not Found
 
 **AAAI 2020** PDERL：Proximal Distilled Evolutionary Reinforcement Learning
 
@@ -47,15 +59,15 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 
 **ICML 2023** RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution
 
-Arxiv: None  Code: None
+Arxiv: Not Found  Code: Not Found
 
 **ICONIP 2022** Cooperation and Competition: Flocking with Evolutionary Multi-Agent Reinforcement Learning
 
-Arxiv: [https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23) Code: None
+Arxiv: [https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23) Code: Not Found
 
 **GECCO 2021** MAEDyS: multiagent evolution via dynamic skill selection 
 
-Link [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi/abs/10.1145/3449639.3459387) Code: None
+Link [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi/abs/10.1145/3449639.3459387) Code: Not Found
 
 **ICML 2020** Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination
 
