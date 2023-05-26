@@ -7,7 +7,7 @@ I will renew the recent papers and add notes to these papers.
 
 ## Paper With Code [TODO]
 
-### :star: Single agent For Policy Optimization
+### :star: Single Agent Policy Optimization
 
 **ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
 
@@ -53,7 +53,7 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
 
-### :star: Multi-Agent For Policy Optimization
+### :star: Multi-Agent Policy Optimization
 
 **ICML 2023** RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution
 
