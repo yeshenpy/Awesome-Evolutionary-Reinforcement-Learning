@@ -57,7 +57,7 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 
 **ICML 2023** RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution
 
-Arxiv: Wait for publication  Code: [https://github.com/yeshenpy/RACE](https://github.com/yeshenpy/RACE)
+Arxiv: Wait for release  Code: [https://github.com/yeshenpy/RACE](https://github.com/yeshenpy/RACE)
 
 **ICONIP 2022** Cooperation and Competition: Flocking with Evolutionary Multi-Agent Reinforcement Learning
 
