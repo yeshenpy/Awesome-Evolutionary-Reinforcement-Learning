@@ -31,7 +31,7 @@ OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net
 
 **ICLR 2021 submission** PGPS : Coupling Policy Gradient with Population-based Search
 
-OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py]
+OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
 
 **ICML 2020** Competitive and cooperative heterogeneous deep reinforcement learning
 
