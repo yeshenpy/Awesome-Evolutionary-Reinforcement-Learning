@@ -5,6 +5,8 @@
 A list of recent papers regarding the combining Evolutionary Algorithms and Reinforcement Learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
+**I will update the other related papers and codes before 10 June 2023.**
+
 ## Paper With Code [TODO]
 
 ### :star: Single Agent Policy Optimization
