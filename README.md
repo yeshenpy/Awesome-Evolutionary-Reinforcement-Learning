@@ -1,11 +1,10 @@
 
 # ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  Awesome-Evolutionary-Reinforcement-Learning
 
-
-I apologize for any inconvenience caused. Due to the recent high workload, there might be a delay of one or two days in updating the papers before 12 June 2023.
-
 A list of recent papers regarding the combining Evolutionary Algorithms and Reinforcement Learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
+
+**Update 09 June**: I apologize for any inconvenience caused. Due to the recent high workload, there might be a delay of one or two days in updating the papers before 12 June 2023.
 
 **I will update other related papers and codes before 10 June 2023, including more papers about Policy Optimization, Quality-Diversity EA + RL , Meta EA + RL, Transfer EA + RL ...**
 
@@ -65,7 +64,7 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 
 **ICML 2023** RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution
 
-Arxiv: Wait for release  Code: [https://github.com/yeshenpy/RACE](https://github.com/yeshenpy/RACE)
+**Abstract Link**: [https://icml.cc/virtual/2023/poster/23791](https://icml.cc/virtual/2023/poster/23791)  Code: [https://github.com/yeshenpy/RACE](https://github.com/yeshenpy/RACE)
 
 **ICONIP 2022** Cooperation and Competition: Flocking with Evolutionary Multi-Agent Reinforcement Learning
 
