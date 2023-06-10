@@ -53,6 +53,10 @@ Link: [https://dl.acm.org/doi/10.5555/3463952.3464104](https://dl.acm.org/doi/10
 
 Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code: [https://github.com/crisbodnar/pderl](https://github.com/crisbodnar/pderl)
 
+**NeurIPS 2020** Cooperative Heterogeneous Deep Reinforcement Learning 
+
+Arxiv: [Cooperative Heterogeneous Deep Reinforcement Learning](Cooperative Heterogeneous Deep Reinforcement Learning) Code: Not Found
+
 **LOD 2020** Gradient Bias to Solve the Generalization Limit of Genetic Algorithms Through Hybridization with Reinforcement Learning
 
 Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26) Code: Not Found
