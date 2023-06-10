@@ -44,6 +44,11 @@ OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net
 
 Arxiv: [https://arxiv.org/abs/2011.00791](https://arxiv.org/abs/2011.00791) Code: Not Found
 
+
+**AMMAS** Guiding Evolutionary Strategies with Off-Policy Actor-Critic
+
+Link: [https://dl.acm.org/doi/10.5555/3463952.3464104](https://dl.acm.org/doi/10.5555/3463952.3464104) Code: Not Found
+
 **AAAI 2020** PDERL：Proximal Distilled Evolutionary Reinforcement Learning
 
 Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code: [https://github.com/crisbodnar/pderl](https://github.com/crisbodnar/pderl)
