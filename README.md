@@ -48,6 +48,10 @@ Arxiv: [https://arxiv.org/abs/2011.00791](https://arxiv.org/abs/2011.00791) Code
 
 Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code: [https://github.com/crisbodnar/pderl](https://github.com/crisbodnar/pderl)
 
+**LOD 2020** Gradient Bias to Solve the Generalization Limit of Genetic Algorithms Through Hybridization with Reinforcement Learning
+
+Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26) Code: Not Found
+
 **ICML 2019** Collaborative Evolutionary Reinforcement Learning 
 
 Arxiv: [https://arxiv.org/abs/1905.00976](https://arxiv.org/abs/1905.00976) Code: [https://github.com/intelai/cerl](https://github.com/intelai/cerl)
