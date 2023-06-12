@@ -7,7 +7,7 @@ I will renew the recent papers and add notes to these papers.
 **If you want to get started, I recommend referring to the accpeted Papers with Code, as it provides an easy way to explore research papers along with their associated code implementations. 
 Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
 
-**Update 12 June**: Update more papers about Single Agent Policy Optimization. 
+**Update 12 June**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
 
 **I will update other related papers and codes before 10 June 2023, including more papers about Policy Optimization, Quality-Diversity EA + RL , Meta EA + RL, Transfer EA + RL ...**
 
@@ -110,4 +110,5 @@ Link: [https://openreview.net/forum?id=6BHlZgyPOZY](https://openreview.net/forum
 Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pdf) Code: [https://github.com/icaros-usc/dqd-rl](https://github.com/icaros-usc/dqd-rl)
 
 **Preprint 2022** QD-RL: Efficient Mixing of Quality and Diversity in Reinforcement Learning
+
 Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
