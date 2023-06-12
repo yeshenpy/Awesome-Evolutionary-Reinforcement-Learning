@@ -4,7 +4,10 @@
 A list of recent papers regarding the combining Evolutionary Algorithms and Reinforcement Learning. They are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
-**Update 12 June**: Update more papers about Single Agent Policy Optimization.
+**If you want to get started, I recommend referring to the accpeted Papers with Code, as it provides an easy way to explore research papers along with their associated code implementations. 
+Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
+
+**Update 12 June**: Update more papers about Single Agent Policy Optimization. 
 
 **I will update other related papers and codes before 10 June 2023, including more papers about Policy Optimization, Quality-Diversity EA + RL , Meta EA + RL, Transfer EA + RL ...**
 
