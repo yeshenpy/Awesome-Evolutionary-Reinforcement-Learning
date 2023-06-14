@@ -110,7 +110,7 @@ Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code
 
 Link: [https://openreview.net/forum?id=6BHlZgyPOZY](https://openreview.net/forum?id=6BHlZgyPOZY) Code: [https://github.com/instadeepai/qd-skill-discovery-benchmark](https://github.com/instadeepai/qd-skill-discovery-benchmark)
 
-**GECCO 2022** QD-RL: Efficient Mixing of Quality and Diversity in Reinforcement Learning
+**GECCO 2022** Approximating Gradients for Differentiable Quality Diversity in Reinforcement Learning
 
 Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pdf) Code: [https://github.com/icaros-usc/dqd-rl](https://github.com/icaros-usc/dqd-rl)
 
