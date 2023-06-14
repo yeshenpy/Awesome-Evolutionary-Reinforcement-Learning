@@ -7,7 +7,7 @@ I will renew the recent papers and add notes to these papers.
 
 [![](https://img.shields.io/badge/-Comment-red.svg)]()
 
-**If you want to get started, I recommend referring to the accpeted Papers with Code, as it provides an easy way to explore research papers along with their associated code implementations. 
+**If you want to get started, I recommend referring to the *Accpeted Papers with the Released Code*, as it provides an easy way to explore research papers along with their associated code implementations. 
 Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
 
 [![](https://img.shields.io/badge/-Update%20List-orange)]()
