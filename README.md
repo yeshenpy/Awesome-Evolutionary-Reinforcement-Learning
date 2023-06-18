@@ -44,7 +44,7 @@ OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net
 
 OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
 
-**ICML 2020** Competitive and cooperative heterogeneous deep reinforcement learning
+***NeurIPS 2020** Competitive and cooperative heterogeneous deep reinforcement learning
 
 Arxiv: [https://arxiv.org/abs/2011.00791](https://arxiv.org/abs/2011.00791) Code: Not Found
 
@@ -56,10 +56,6 @@ Link: [https://dl.acm.org/doi/10.5555/3463952.3464104](https://dl.acm.org/doi/10
 **AAAI 2020** PDERL：Proximal Distilled Evolutionary Reinforcement Learning
 
 Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code: [https://github.com/crisbodnar/pderl](https://github.com/crisbodnar/pderl)
-
-**NeurIPS 2020** Cooperative Heterogeneous Deep Reinforcement Learning 
-
-Arxiv: [Cooperative Heterogeneous Deep Reinforcement Learning](Cooperative Heterogeneous Deep Reinforcement Learning) Code: Not Found
 
 **LOD 2020** Gradient Bias to Solve the Generalization Limit of Genetic Algorithms Through Hybridization with Reinforcement Learning
 
