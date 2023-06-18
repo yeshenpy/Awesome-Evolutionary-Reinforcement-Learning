@@ -30,7 +30,7 @@ Link: [https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_page
 
 **AAMAS 2022** Maximum Mutation Reinforcement Learning for Scalable Control
 
-Link: [https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf](https://github.com/karush17/esac) Code: [https://github.com/karush17/esac](https://github.com/karush17/esac)
+Link: [https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf]([https://github.com/karush17/esac](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf)) Code: [https://github.com/karush17/esac](https://github.com/karush17/esac)
 
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
