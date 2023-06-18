@@ -14,7 +14,7 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 **12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
 
-**I will update other related papers and codes before 10 June 2023, including more papers about Policy Optimization, Quality-Diversity EA + RL , Meta EA + RL, Transfer EA + RL ...**
+**I will update other related papers and codes before 10 June 2023, including more papers about Policy Optimization, Quality-Diversity EA + RL, Meta EA + RL, and Transfer EA + RL ...**
 
 ## Paper With Code [TODO]
 
@@ -44,7 +44,7 @@ OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net
 
 OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
 
-***NeurIPS 2020** Competitive and cooperative heterogeneous deep reinforcement learning
+**NeurIPS 2020** Competitive and cooperative heterogeneous deep reinforcement learning
 
 Arxiv: [https://arxiv.org/abs/2011.00791](https://arxiv.org/abs/2011.00791) Code: Not Found
 
@@ -53,7 +53,7 @@ Arxiv: [https://arxiv.org/abs/2011.00791](https://arxiv.org/abs/2011.00791) Code
 
 Link: [https://dl.acm.org/doi/10.5555/3463952.3464104](https://dl.acm.org/doi/10.5555/3463952.3464104) Code: Not Found
 
-**AAAI 2020** PDERL：Proximal Distilled Evolutionary Reinforcement Learning
+**AAAI 2020** PDERL: Proximal Distilled Evolutionary Reinforcement Learning
 
 Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code: [https://github.com/crisbodnar/pderl](https://github.com/crisbodnar/pderl)
 
