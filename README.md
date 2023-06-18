@@ -24,13 +24,9 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code: [https://github.com/yeshenpy/ERL-Re2](https://github.com/yeshenpy/ERL-Re2)
 
-**AAMAS 2022** Off-policy evolutionary reinforcement learning with maximum mutations
+**AAMAS 2022** Off-policy evolutionary reinforcement learning with maximum mutations (Maximum Mutation Reinforcement Learning for Scalable Control)
 
-Link: [https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_pages/temp4.pdf](https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_pages/temp4.pdf) Code: Not Found
-
-**AAMAS 2022** Maximum Mutation Reinforcement Learning for Scalable Control
-
-Link: [https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf) Code: [https://github.com/karush17/esac](https://github.com/karush17/esac)
+Link: [https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_pages/temp4.pdf](https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_pages/temp4.pdf) Code: [https://github.com/karush17/esac](https://github.com/karush17/esac)
 
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
