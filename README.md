@@ -69,7 +69,7 @@ Arxiv: [https://arxiv.org/abs/1905.00976](https://arxiv.org/abs/1905.00976) Code
 
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
 
-**Preprint** FiDi-RL: Incorporating Deep Reinforcement Learning with Finite-Difference Policy Search for Efficient Learning of Continuous Control**
+**Preprint** FiDi-RL: Incorporating Deep Reinforcement Learning with Finite-Difference Policy Search for Efficient Learning of Continuous Control
 
 Link: [https://arxiv.org/pdf/1907.00526v2.pdf](https://arxiv.org/pdf/1907.00526v2.pdf) Code: Not Found
 
