@@ -93,7 +93,7 @@ Link [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi
 
 **ICML 2020** Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination
 
-Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code: [Anonymous Code](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md)
+Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code: [Anonymous Code](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md) or [https://github.com/ShawK91/MERL](https://github.com/ShawK91/MERL)
 
 
 ### :star: Quality Diversity with RL
