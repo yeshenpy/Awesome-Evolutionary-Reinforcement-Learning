@@ -1,16 +1,18 @@
 
 # ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  Awesome-Evolutionary-Reinforcement-Learning
 
-A list of recent papers regarding the combining Evolutionary Algorithms and Reinforcement Learning. They are sorted by time to see the recent papers first.
+A list of recent papers regarding combining Evolutionary Algorithms and Reinforcement Learning: they are sorted by time to see the recent papers first.
 I will renew the recent papers and add notes to these papers.
 
 
 [![](https://img.shields.io/badge/-Comment-red.svg)]()
 
-**If you want to get started, I recommend referring to the *Accpeted Papers with the Released Code*, as it provides an easy way to explore research papers along with their associated code implementations. 
+**If you want to get started, I recommend referring to the *Accepted Papers with the Released Code*, as it provides an easy way to explore research papers and their associated code implementations. 
 Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
 
 [![](https://img.shields.io/badge/-Update%20List-orange)]()
+
+**22 September 2023**: I will fully update the site within a month.
 
 **12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
 
@@ -40,7 +42,7 @@ Arxiv: [https://arxiv.org/abs/2201.04286v1](https://arxiv.org/abs/2201.04286v1) 
 
 OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: Not Found
 
-**ICLR 2021 submission** PGPS : Coupling Policy Gradient with Population-based Search
+**ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
 
 OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
 
