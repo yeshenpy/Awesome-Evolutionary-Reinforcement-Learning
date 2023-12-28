@@ -12,7 +12,7 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 [![](https://img.shields.io/badge/-Update%20List-orange)]()
 
-**22 September 2023**: I will fully update the site within a month.
+**28 December 2023**: I will fully update the site within two weeks.
 
 **12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
 
