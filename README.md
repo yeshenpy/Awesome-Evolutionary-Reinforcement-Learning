@@ -16,8 +16,6 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 **12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
 
-**I will update other related papers and codes before 10 June 2023, including more papers about Policy Optimization, Quality-Diversity EA + RL, Meta EA + RL, and Transfer EA + RL ...**
-
 ## Paper With Code [TODO]
 
 ### :star: Single Agent Policy Optimization
