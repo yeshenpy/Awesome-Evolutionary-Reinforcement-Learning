@@ -7,10 +7,9 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 **This repository is under construction ...**
 
-**20 January 2024**: I will fully update the site when the survey is updated.
+**20 January 2024**: I am updating our survey and will fully update the site when the survey is updated.
 
 **12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
-
 
 
 We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
