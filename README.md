@@ -55,6 +55,12 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 ## EA-assisted Parameter Search
 Content for EA-assisted Parameter Search goes here.
 
+
+**ICLR 2021** Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
+
+OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: Not Found
+
+
 ## EA-assisted Action Selection
 Content for EA-assisted Action Selection goes here.
 
@@ -121,10 +127,6 @@ Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code
 **Preprint** Evolutionary action selection for gradient-based policy learning
 
 Arxiv: [https://arxiv.org/abs/2201.04286v1](https://arxiv.org/abs/2201.04286v1) Code: Not Found
-
-**ICLR 2021** Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
-
-OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: Not Found
 
 
 **NeurIPS 2020** Competitive and cooperative heterogeneous deep reinforcement learning
