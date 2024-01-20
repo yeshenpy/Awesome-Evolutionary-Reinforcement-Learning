@@ -2,7 +2,7 @@
 # ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  Awesome-Evolutionary-Reinforcement-Learning
 Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorithms (EAs) and Reinforcement Learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing the strengths of both approaches, ERL has emerged as a promising research direction. 
 
-We provide three main research directions with various branches as follows:
+We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
 
 - [ :star: EA-Assisted Optimization of RL](#ea-assisted-optimization-of-rl)
   - [EA-assisted Parameter Search](#ea-assisted-parameter-search)
