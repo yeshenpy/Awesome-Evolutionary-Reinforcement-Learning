@@ -41,16 +41,55 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 ## Paper With Code [TODO]
 
-## :star: EA-Assisted Optimization of RL
+
+# :star: EA-Assisted Optimization of RL
+## EA-assisted Parameter Search
+Content for EA-assisted Parameter Search goes here.
+
+## EA-assisted Action Selection
+Content for EA-assisted Action Selection goes here.
+
+## Hyperparameter Optimization
+Content for Hyperparameter Optimization goes here.
+
+## Others
+Additional content for the "Others" section goes here.
+
+# :star: RL-Assisted Optimization of EA
+## Population Initialization
+Content for Population Initialization goes here.
+
+## Population Evaluation
+Content for Population Evaluation goes here.
+
+## Variation Operator
+
+**ICLR 2023** Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery
+
+Link: [https://openreview.net/forum?id=6BHlZgyPOZY](https://openreview.net/forum?id=6BHlZgyPOZY) Code: [https://github.com/instadeepai/qd-skill-discovery-benchmark](https://github.com/instadeepai/qd-skill-discovery-benchmark)
+
+**GECCO 2022** Approximating Gradients for Differentiable Quality Diversity in Reinforcement Learning
+
+Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pdf) Code: [https://github.com/icaros-usc/dqd-rl](https://github.com/icaros-usc/dqd-rl)
+
+**Preprint 2022** QD-RL: Efficient Mixing of Quality and Diversity in Reinforcement Learning
+
+Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
 
 
 
-## :star: RL-Assisted Optimization of EA
+## Dynamic Operator Selection
+Content for Dynamic Operator Selection goes here.
 
+## Hyperparameter Configuration
+Content for Hyperparameter Configuration goes here.
 
-## :star: Synergistic Optimization of EA and RL
+## Others
+Additional content for the "Others" section goes here.
 
-### Single Agent Policy Optimization
+# :star: Synergistic Optimization of EA and RL
+## Single-Agent Optimization
+
 
 **ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
 
@@ -109,7 +148,8 @@ Link: [https://arxiv.org/pdf/1907.00526v2.pdf](https://arxiv.org/pdf/1907.00526v
 
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
 
-### :star: Multi-Agent Policy Optimization
+
+## Multi-Agent Optimization
 
 **ICML 2023** RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution
 
@@ -128,16 +168,9 @@ Link [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi
 Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code: [Anonymous Code](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md) or [https://github.com/ShawK91/MERL](https://github.com/ShawK91/MERL)
 
 
-### :star: Quality Diversity with RL
+## Others
+Additional content for the "Others" section goes here.
 
-**ICLR 2023** Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery
 
-Link: [https://openreview.net/forum?id=6BHlZgyPOZY](https://openreview.net/forum?id=6BHlZgyPOZY) Code: [https://github.com/instadeepai/qd-skill-discovery-benchmark](https://github.com/instadeepai/qd-skill-discovery-benchmark)
 
-**GECCO 2022** Approximating Gradients for Differentiable Quality Diversity in Reinforcement Learning
 
-Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pdf) Code: [https://github.com/icaros-usc/dqd-rl](https://github.com/icaros-usc/dqd-rl)
-
-**Preprint 2022** QD-RL: Efficient Mixing of Quality and Diversity in Reinforcement Learning
-
-Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
