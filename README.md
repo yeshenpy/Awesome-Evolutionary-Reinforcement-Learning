@@ -2,11 +2,31 @@
 # ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  Awesome-Evolutionary-Reinforcement-Learning
 Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorithms (EAs) and Reinforcement Learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing the strengths of both approaches, ERL has emerged as a promising research direction. 
 
-We provide three main research directions as follows:
+We provide three main research directions as follows: **EA-Assisted Optimization of RL, RL-Assisted Optimization of EA, Synergistic Optimization of EA and RL**.
+
+
+- [EA-Assisted Optimization of RL](#1)
+  - [EA-assisted Parameter Search](#1.1)
+  - [EA-assisted Action Selection](#1.2)
+  - [Hyperparameter Optimization](#1.3)
+  - [Others](#1.4)
+- [RL-Assisted Optimization of EA](#2)
+  - [Population Initialization](#2.1)
+  - [Population Evaluation](#2.2)
+  - [Variation Operator](#2.3)
+  - [Dynamic Operator Selection](#2.4)
+  - [Hyperparameter Configuration](#2.5)
+  - [Others](#2.6)
+- [Synergistic Optimization of EA and RL](#3)
+  - [Single-Agent Optimization](#3.1)
+  - [Multi-Agent Optimization](#3.2)
+  - [Others](#3.3)
 
 ![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/fc550484-e9ef-4e14-9800-88a7355dcfc2)
 
-Detailed information can be found in our survey paper.
+Detailed information can be found in our survey paper (It's being uploaded.).
+
+
 
 [![](https://img.shields.io/badge/-Comment-red.svg)]()
 
