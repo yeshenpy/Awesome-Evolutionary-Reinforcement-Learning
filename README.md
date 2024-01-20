@@ -9,6 +9,8 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 **20 January 2024**: I am updating the survey on this topic and will fully update the site when the survey is updated.
 
+***
+
 We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
 
 - [ :star: EA-Assisted Optimization of RL](#ea-assisted-optimization-of-rl)
