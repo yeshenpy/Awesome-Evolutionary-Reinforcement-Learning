@@ -3,6 +3,14 @@
 Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorithms (EAs) and Reinforcement Learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing the strengths of both approaches, ERL has emerged as a promising research direction. 
 
 
+[![](https://img.shields.io/badge/-Update%20List-orange)]()
+
+**This repository is under construction ...**
+
+**20 January 2024**: I will fully update the site when the survey is updated.
+
+**12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
+
 
 
 We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
@@ -28,16 +36,20 @@ We provide three main research directions with various branches as follows: **(I
 
 Detailed information can be found in our survey paper (It's being uploaded.).
 
+
+---
+
 [![](https://img.shields.io/badge/-Comment-red.svg)]()
 
-**If you want to get started, I recommend referring to the *Accepted Papers with the Released Code*, as it provides an easy way to explore research papers and their associated code implementations. 
+* **If you want to get started, I recommend referring to the *Accepted Papers with the Released Code*, as it provides an easy way to explore research papers and their associated code implementations. 
 Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
 
-[![](https://img.shields.io/badge/-Update%20List-orange)]()
 
-**20 January 2024**: I will fully update the site when the survey is updated.
 
-**12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
+* If you are interested in sequential decision-making problems, it is recommended to focus primarily on **EA-Assisted Optimization of RL** and **Synergistic Optimization of EA and RL**. If you are interested in other optimization problems, it is suggested to pay attention to **RL-Assisted Optimization of EA**. I primarily focus on the former.
+
+---
+
 
 ## Paper With Code [TODO]
 
