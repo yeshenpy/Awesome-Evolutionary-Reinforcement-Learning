@@ -2,6 +2,9 @@
 # ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  Awesome-Evolutionary-Reinforcement-Learning
 Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorithms (EAs) and Reinforcement Learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing the strengths of both approaches, ERL has emerged as a promising research direction. 
 
+
+
+
 We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
 
 - [ :star: EA-Assisted Optimization of RL](#ea-assisted-optimization-of-rl)
@@ -25,8 +28,6 @@ We provide three main research directions with various branches as follows: **(I
 
 Detailed information can be found in our survey paper (It's being uploaded.).
 
-
-
 [![](https://img.shields.io/badge/-Comment-red.svg)]()
 
 **If you want to get started, I recommend referring to the *Accepted Papers with the Released Code*, as it provides an easy way to explore research papers and their associated code implementations. 
@@ -34,12 +35,11 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 [![](https://img.shields.io/badge/-Update%20List-orange)]()
 
-**28 December 2023**: I will fully update the site within two weeks.
+**20 January 2024**: I will fully update the site when the survey is updated.
 
 **12 June 2023**: Update more papers about Single Agent Policy Optimization and some papers about Quality Diversity RL. 
 
 ## Paper With Code [TODO]
-
 
 # :star: EA-Assisted Optimization of RL
 ## EA-assisted Parameter Search
