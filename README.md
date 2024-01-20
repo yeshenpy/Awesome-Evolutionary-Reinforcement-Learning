@@ -18,7 +18,9 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 ## Paper With Code [TODO]
 
-### :star: Single Agent Policy Optimization
+## :star: Synergistic Optimization of EA and RL
+
+### Single Agent Policy Optimization
 
 **ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
 
