@@ -5,19 +5,19 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 We provide three main research directions as follows: **EA-Assisted Optimization of RL, RL-Assisted Optimization of EA, Synergistic Optimization of EA and RL**.
 
 
-- [EA-Assisted Optimization of RL](#ea-assisted-optimization-of-rl)
+- [ :star: EA-Assisted Optimization of RL](#ea-assisted-optimization-of-rl)
   - [EA-assisted Parameter Search](#ea-assisted-parameter-search)
   - [EA-assisted Action Selection](#ea-assisted-action-selection)
   - [Hyperparameter Optimization](#hyperparameter-optimization)
   - [Others](#others)
-- [RL-Assisted Optimization of EA](#rl-assisted-optimization-of-ea)
+- [ :star: RL-Assisted Optimization of EA](#rl-assisted-optimization-of-ea)
   - [Population Initialization](#population-initialization)
   - [Population Evaluation](#population-evaluation)
   - [Variation Operator](#variation-operator)
   - [Dynamic Operator Selection](#dynamic-operator-selection)
   - [Hyperparameter Configuration](#hyperparameter-configuration)
   - [Others](#others-1)
-- [Synergistic Optimization of EA and RL](#synergistic-optimization-of-ea-and-rl)
+- [ :star: Synergistic Optimization of EA and RL](#synergistic-optimization-of-ea-and-rl)
   - [Single-Agent Optimization](#single-agent-optimization)
   - [Multi-Agent Optimization](#multi-agent-optimization)
   - [Others](#others-2)
