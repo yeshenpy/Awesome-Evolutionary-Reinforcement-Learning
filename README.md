@@ -85,7 +85,13 @@ Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pd
 
 Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
 
+**ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
 
+OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
+
+**ICLR 2019** CEM-RL: Combining evolutionary and gradient-based methods for policy search
+
+Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
 
 ## Dynamic Operator Selection
 Content for Dynamic Operator Selection goes here.
@@ -120,9 +126,6 @@ Arxiv: [https://arxiv.org/abs/2201.04286v1](https://arxiv.org/abs/2201.04286v1) 
 
 OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: Not Found
 
-**ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
-
-OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
 
 **NeurIPS 2020** Competitive and cooperative heterogeneous deep reinforcement learning
 
@@ -144,10 +147,6 @@ Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.o
 **ICML 2019** Collaborative Evolutionary Reinforcement Learning 
 
 Arxiv: [https://arxiv.org/abs/1905.00976](https://arxiv.org/abs/1905.00976) Code: [https://github.com/intelai/cerl](https://github.com/intelai/cerl)
-
-**ICLR 2019** CEM-RL: Combining evolutionary and gradient-based methods for policy search
-
-Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
 
 **Preprint** FiDi-RL: Incorporating Deep Reinforcement Learning with Finite-Difference Policy Search for Efficient Learning of Continuous Control
 
