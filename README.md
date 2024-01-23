@@ -34,7 +34,10 @@ We provide three main research directions with various branches as follows: **(I
 
 ![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/fc550484-e9ef-4e14-9800-88a7355dcfc2)
 
-Detailed information can be found in our survey paper (It's being uploaded.).
+![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/96464ff7-db92-4cc8-bc3d-ad2edc76695e)
+
+
+Detailed information can be found in our survey paper.
 
 
 ---
