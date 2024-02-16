@@ -79,6 +79,19 @@ OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net
 
 ## Population Evaluation
 
+**ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
+
+Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code: [https://github.com/yeshenpy/ERL-Re2](https://github.com/yeshenpy/ERL-Re2)
+
+**ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
+
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: Not Found
+
+**ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
+
+OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
+
+
 ## Variation Operator
 
 **ICLR 2023** Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery
