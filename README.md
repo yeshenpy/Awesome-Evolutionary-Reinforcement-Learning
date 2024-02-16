@@ -58,8 +58,6 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 # :star: EA-Assisted Optimization of RL
 ## EA-assisted Parameter Search
-Content for EA-assisted Parameter Search goes here.
-
 
 **ICLR 2021** Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
 
@@ -67,20 +65,19 @@ OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net
 
 
 ## EA-assisted Action Selection
-Content for EA-assisted Action Selection goes here.
+
 
 ## Hyperparameter Optimization
-Content for Hyperparameter Optimization goes here.
+
 
 ## Others
-Additional content for the "Others" section goes here.
+
 
 # :star: RL-Assisted Optimization of EA
 ## Population Initialization
-Content for Population Initialization goes here.
+
 
 ## Population Evaluation
-Content for Population Evaluation goes here.
 
 ## Variation Operator
 
@@ -105,13 +102,10 @@ OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
 
 ## Dynamic Operator Selection
-Content for Dynamic Operator Selection goes here.
 
 ## Hyperparameter Configuration
-Content for Hyperparameter Configuration goes here.
 
 ## Others
-Additional content for the "Others" section goes here.
 
 # :star: Synergistic Optimization of EA and RL
 ## Single-Agent Optimization
@@ -184,7 +178,7 @@ Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code
 
 
 ## Others
-Additional content for the "Others" section goes here.
+
 
 
 
