@@ -105,8 +105,68 @@ Link: [https://beipeng.github.io/files/2003.06709.pdf](https://beipeng.github.io
 ## Hyperparameter Optimization
 
 
+**GECCO 2018** Online Meta-learning by Parallel Algorithm Competition
+
+Link: [https://arxiv.org/abs/1702.07490](https://arxiv.org/abs/1702.07490) Code: Not Found
+
+**Preprint 2017** Population Based Training of Neural Networks
+
+Link: [https://arxiv.org/abs/1711.09846](https://arxiv.org/abs/1711.09846) Code: [https://github.com/voiler/PopulationBasedTraining](https://github.com/voiler/PopulationBasedTraining)
+
+
+**ICLR 2021** Sample-efficient Automated Deep Reinforcement Learning
+
+Link: [https://arxiv.org/abs/2009.01555](https://arxiv.org/abs/2009.01555) Code: [https://github.com/automl/SEARL](https://github.com/automl/SEARL)
+
+**IEEE IRC 2022** GA+DDPG+HER: Genetic Algorithm-based Function Optimizer in Deep Reinforcement Learning for Robotic Manipulation Tasks
+
+Link: [https://arxiv.org/abs/2203.00141](https://arxiv.org/abs/2203.00141) Code: [https://github.com/aralab-unr/ga-drl-aubo-ara-lab](https://github.com/aralab-unr/ga-drl-aubo-ara-lab)
+
+**Preprint 2021** Towards Automatic Actor-critic Solutions to Continuous Control
+
+Link: [https://arxiv.org/abs/2106.08918](https://arxiv.org/abs/2106.08918) Code: [https://github.com/jakegrigsby/deep_control](https://github.com/jakegrigsby/deep_control)
+
+**Preprint 2020** Online Hyper-parameter Tuning in Offpolicy Learning via Evolutionary Strategies
+
+Link: [https://arxiv.org/abs/2006.07554](https://arxiv.org/abs/2006.07554) Code: Not Found
+
 ## Others
 
+**ICLR 2021** Evolving Reinforcement Learning Algorithms
+
+Link: [https://arxiv.org/abs/2101.03958](https://arxiv.org/abs/2101.03958) Code: Not Found
+
+**IROS 2021** PNS: Population-guided Novelty Search for Reinforcement Learning in Hard Exploration Environments
+
+Link: [https://arxiv.org/abs/1811.10264](https://arxiv.org/abs/1811.10264) Code: Not Found
+
+**Nature 2021** Go explore: A New Approach for Hard-exploration Problems
+
+Link: [https://arxiv.org/abs/1901.10995](https://arxiv.org/abs/1901.10995) Code: [https://github.com/uber-research/go-explore](https://github.com/uber-research/go-explore)
+
+**NeurIPS 2018** Genetic-gated Networks for Deep Reinforcement Learning
+
+Link: [https://arxiv.org/abs/1903.01886](https://arxiv.org/abs/1903.01886) Code: Not Found
+
+**GECCO 2021** Evo-rl: Evolutionary-driven Reinforcement Learning
+
+Link: [https://arxiv.org/abs/2007.04725](https://arxiv.org/abs/2007.04725) Code: Not Found
+
+**AAAI 2023** Robust Multi-agent Coordination via Evolutionary Generation of Auxiliary Adversarial Attackers
+
+Link: [https://arxiv.org/abs/2305.05909](https://arxiv.org/abs/2305.05909) Code: [https://github.com/zzq-bot/ROMANCE](https://github.com/zzq-bot/ROMANCE)
+
+**Preprint 2023** Communication-robust Multiagent Learning by Adaptable Auxiliary Multi-agent Adversary Generation
+
+Link: [https://arxiv.org/abs/2305.05116](https://arxiv.org/abs/2305.05116) Code: Not Found
+
+**ICLR 2020** Evolutionary Population Curriculum for Scaling Multi-agent Reinforcement Learning
+
+Link: [https://arxiv.org/abs/2003.10423](https://arxiv.org/abs/2003.10423) Code: [https://github.com/qian18long/epciclr2020](https://github.com/qian18long/epciclr2020)
+
+**IROS 2020** MAPPER: Multi-agent Path Planning with Evolutionary Reinforcement Learning in Mixed Dynamic Environments
+
+Link: [https://arxiv.org/abs/2007.15724](https://arxiv.org/abs/2007.15724) Code: Not Found
 
 # :star: RL-Assisted Optimization of EA
 ## Population Initialization
