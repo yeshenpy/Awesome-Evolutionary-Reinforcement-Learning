@@ -59,12 +59,47 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 # :star: EA-Assisted Optimization of RL
 ## EA-assisted Parameter Search
 
+**ELIFE 2020** Reinforcement Learning beyond The Bellman Equation: Exploring Critic Objectives using Evolution
+
+[https://direct.mit.edu/isal/proceedings/isal2020/32/441/98464](https://direct.mit.edu/isal/proceedings/isal2020/32/441/98464) Code: [https://github.com/ajleite/RLBeyondBellman](https://github.com/ajleite/RLBeyondBellman)
+
 **ICLR 2021** Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
 
 OpenReview: [https://openreview.net/forum?id=TGFO0DbD_pk](https://openreview.net/forum?id=TGFO0DbD_pk) Code: Not Found
 
+**ICLR 2023** Improving Deep Policy Gradients with Value Function Search
+
+OpenReview: [https://openreview.net/forum?id=6qZC7pfenQm](https://openreview.net/forum?id=6qZC7pfenQm) Code: Not Found
 
 ## EA-assisted Action Selection
+
+**CORL 2018**  Scalable deep reinforcement learning for vision-based robotic manipulation
+
+Link: [https://proceedings.mlr.press/v87/kalashnikov18a](https://proceedings.mlr.press/v87/kalashnikov18a) Code: [https://github.com/quantumiracle/QT_Opt](https://github.com/quantumiracle/QT_Opt)
+
+**ICML 2019 RL4RealLife Workshop** Q-learning for continuous actions with cross-entropy guided policies
+
+Link: [https://arxiv.org/abs/1903.10605](https://arxiv.org/abs/1903.10605)  Code: Not Found
+
+**Preprint 2022** Evolutionary Action Selection for Gradient-based Policy Learning
+
+Link [https://arxiv.org/abs/2201.04286](https://arxiv.org/abs/2201.04286)  Code: Not Found
+
+**Preprint 2021**  Soft Actor-Critic with Cross-entropy Policy Optimization
+
+Link: [https://arxiv.org/abs/2112.11115](https://arxiv.org/abs/2112.11115) Code: [https://github.com/wcgcyx/SAC-CEPO](https://github.com/wcgcyx/SAC-CEPO)
+
+**CORL 2021** GRAC: Self-guided and Self-regularized Actor-critic
+
+Link: [https://arxiv.org/abs/2009.08973](https://arxiv.org/abs/2009.08973) Code: [https://github.com/stanford-iprl-lab/GRAC](https://github.com/stanford-iprl-lab/GRAC)
+
+**ICML 2022**  Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification
+
+Link: [https://arxiv.org/abs/2111.11188](https://arxiv.org/abs/2111.11188)  Code: [https://github.com/ling-pan/OMAR](https://github.com/ling-pan/OMAR)
+
+**Preprint 2020** Deep Multi-agent Reinforcement Learning for Decentralized Continuous Cooperative Control
+
+Link: [https://beipeng.github.io/files/2003.06709.pdf](https://beipeng.github.io/files/2003.06709.pdf)  Code: [https://github.com/oxwhirl/comix](https://github.com/oxwhirl/comix)
 
 
 ## Hyperparameter Optimization
