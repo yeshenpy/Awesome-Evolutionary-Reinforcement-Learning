@@ -1,9 +1,13 @@
 
-# ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  Awesome-Evolutionary-Reinforcement-Learning
+<!-- # ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  -->
+
+# 🚀 Awesome-Evolutionary-Reinforcement-Learning
 Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorithms (EAs) and Reinforcement Learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing the strengths of both approaches, ERL has emerged as a promising research direction. 
 
 
-[![](https://img.shields.io/badge/-Update%20List-orange)]()
+<!--## [![](https://img.shields.io/badge/-Update%20List-orange)]() --> 
+
+# 📋 Update List
 
 **This repository is under construction ...**
 
@@ -13,7 +17,33 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 **20 January 2024**: I am updating the survey on this topic and will fully update the site when the survey is updated.
 
-***
+
+
+<!--## [![](https://img.shields.io/badge/-Comment-red.svg)]() -->
+
+# 🔑 Comments
+
+* **If you want to get started, I recommend referring to the *Accepted Papers with the Released Code*, as it provides an easy way to explore research papers and their associated code implementations. 
+Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
+
+* If you are interested in sequential decision-making problems, it is recommended to focus primarily on **EA-Assisted Optimization of RL** and **Synergistic Optimization of EA and RL**. If you are interested in other optimization problems, it is suggested to pay attention to **RL-Assisted Optimization of EA**. I primarily focus on the former.
+
+
+
+**If you do find our survey or the repository helpful (or if you would be so kind as to offer us some encouragement), please consider kindly giving a star, and citing our paper.**
+
+```
+@article{li2024bridging,
+  title={Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey},
+  author={Pengyi Li and Jianye Hao and Hongyao Tang and Xian Fu and Yan Zheng and Ke Tang},
+  journal={arXiv preprint arXiv:2401.11963},
+  year={2024}
+}
+```
+
+
+
+## 🎥 Resources
 
 We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
 
@@ -40,20 +70,6 @@ We provide three main research directions with various branches as follows: **(I
 
 
 Detailed information can be found in our survey paper.
-
-
----
-
-[![](https://img.shields.io/badge/-Comment-red.svg)]()
-
-* **If you want to get started, I recommend referring to the *Accepted Papers with the Released Code*, as it provides an easy way to explore research papers and their associated code implementations. 
-Furthermore, building your algorithm on top of state-of-the-art algorithms will greatly enhance your productivity and efficiency.**
-
-
-
-* If you are interested in sequential decision-making problems, it is recommended to focus primarily on **EA-Assisted Optimization of RL** and **Synergistic Optimization of EA and RL**. If you are interested in other optimization problems, it is suggested to pay attention to **RL-Assisted Optimization of EA**. I primarily focus on the former.
-
----
 
 
 ## Paper With Code [TODO]
