@@ -265,10 +265,6 @@ Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pd
 
 Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
 
-**ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
-
-OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
-
 **ICLR 2019** CEM-RL: Combining evolutionary and gradient-based methods for policy search
 
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
@@ -286,6 +282,10 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 **ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
 
 Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code: [https://github.com/yeshenpy/ERL-Re2](https://github.com/yeshenpy/ERL-Re2)
+
+**ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
+
+OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net/forum?id=PeT5p3ocagr) Code: [https://github.com/NamKim88/PGPS/blob/master/Main.py](https://github.com/NamKim88/PGPS/blob/master/Main.py)
 
 **AAMAS 2022** Off-policy evolutionary reinforcement learning with maximum mutations (Maximum Mutation Reinforcement Learning for Scalable Control)
 
