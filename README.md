@@ -43,7 +43,7 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 
 
 
-## 🎥 Resources
+# 🎥 Resources
 
 We provide three main research directions with various branches as follows: **(In total, it includes approximately 90 works.)**
 
@@ -271,9 +271,15 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 
 ## Dynamic Operator Selection
 
+Waiting for updates
+
 ## Hyperparameter Configuration
 
+Waiting for updates
+
 ## Others
+
+Waiting for updates
 
 # :star: Synergistic Optimization of EA and RL
 ## Single-Agent Optimization
@@ -336,6 +342,14 @@ Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code
 
 **Link**: [https://icml.cc/virtual/2023/poster/23791](https://icml.cc/virtual/2023/poster/23791)  Code: [https://github.com/yeshenpy/RACE](https://github.com/yeshenpy/RACE)
 
+**GECCO 2023** Novelty Seeking Multiagent Evolutionary Reinforcement Learning
+
+Link: [https://dl.acm.org/doi/abs/10.1145/3583131.3590428](https://dl.acm.org/doi/abs/10.1145/3583131.3590428) Code: Not Found
+
+**IJCNN 2023** Evolution Strategies Enhanced Complex Multiagent Coordination
+
+Link: [https://ieeexplore.ieee.org/document/10191313](https://ieeexplore.ieee.org/document/10191313) Code: Not Found
+
 **ICONIP 2022** Cooperation and Competition: Flocking with Evolutionary Multi-Agent Reinforcement Learning
 
 Arxiv: [https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23) Code: Not Found
@@ -351,7 +365,9 @@ Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code
 
 ## Others
 
+Waiting for updates
 
 
+**If you discover any related tasks that I have missed, please submit an issue. I will update it in the survey and on the website. Thank you very much**
 
 
