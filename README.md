@@ -17,7 +17,7 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 **20 January 2024**: I am updating the survey on this topic and will fully update the site when the survey is updated.
 
-**If you discover any related tasks that I have missed, please submit an issue. I will update it in the survey and on the website. Thank you very much!**
+**If you discover any related works that I have missed, please submit an issue. I will update it in the survey and on the website. Thank you very much!**
 
 <!--## [![](https://img.shields.io/badge/-Comment-red.svg)]() -->
 
