@@ -275,7 +275,37 @@ Waiting for updates
 
 ## Hyperparameter Configuration
 
-Waiting for updates
+**ESOA 2006** Reinforcement learning for online control of evolutionary algorithms
+
+Link: [https://link.springer.com/chapter/10.1007/978-3-540-69868-5_10](https://link.springer.com/chapter/10.1007/978-3-540-69868-5_10) Code: Not Found
+
+**PPSN 2020** Learning step-size adaptation in CMA-ES
+
+Link: [https://ml.informatik.uni-freiburg.de/wp-content/uploads/papers/20-PPSN-LTO-CMA.pdf](https://ml.informatik.uni-freiburg.de/wp-content/uploads/papers/20-PPSN-LTO-CMA.pdf) Code: [https://github.com/automl/LTO-CMA](https://github.com/automl/LTO-CMA)
+
+**ECAI 2020** Dynamic algorithm configuration: Foundation of a new meta-algorithmic framework
+
+Link: [https://ecai2020.eu/papers/1237_paper.pdf](https://ecai2020.eu/papers/1237_paper.pdf) Code: [https://github.com/automl/DAC](https://github.com/automl/DAC)
+
+**TETCI 2022** Variational reinforcement learning for hyper-parameter tuning of adaptive evolutionary algorithm
+
+Link: [https://www.researchgate.net/publication/365582495_Variational_Reinforcement_Learning_for_Hyper-Parameter_Tuning_of_Adaptive_Evolutionary_Algorithm](https://www.researchgate.net/publication/365582495_Variational_Reinforcement_Learning_for_Hyper-Parameter_Tuning_of_Adaptive_Evolutionary_Algorithm) Code: Not Found
+
+**IEEE Comput. Intell. Mag., 2023** Controlling sequential hybrid evolutionary algorithm by q-learning
+
+Link: [https://ieeexplore.ieee.org/document/10035716/](https://ieeexplore.ieee.org/document/10035716/) Code: Not Found
+
+**NeurIPS 2022** Multiagent dynamic algorithm configuration
+
+Arxiv: [https://arxiv.org/abs/2210.06835](https://arxiv.org/abs/2210.06835) Code: [https://github.com/lamda-bbo/madac](https://github.com/lamda-bbo/madac)
+
+**Appl. Soft Comput., 2021** Q-learning-based parameter control in differential evolution for structural optimization
+
+Link: [https://www.sciencedirect.com/science/article/abs/pii/S1568494621003872](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003872) Code: Not Found
+
+**Energy Reports, 2021** Reinforcement learning-based differential evolution for parameters extraction of photovoltaic models
+
+Link: [https://www.sciencedirect.com/science/article/pii/S2352484721000974](https://www.sciencedirect.com/science/article/pii/S2352484721000974) Code: Not Found
 
 ## Others
 
@@ -292,6 +322,7 @@ Arxiv: [https://arxiv.org/abs/2008.10066](https://arxiv.org/abs/2008.10066) Code
 Arxiv: [https://arxiv.org/abs/2203.04955](https://arxiv.org/abs/2203.04955) Code: [https://github.com/nicklashansen/tdmpc](https://github.com/nicklashansen/tdmpc)
 
 # :star: Synergistic Optimization of EA and RL
+
 ## Single-Agent Optimization
 
 
