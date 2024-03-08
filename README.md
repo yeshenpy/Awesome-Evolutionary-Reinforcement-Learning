@@ -279,7 +279,17 @@ Waiting for updates
 
 ## Others
 
-Waiting for updates
+**L4DC 2020** Model-predictive control via cross-entropy and gradient-based optimization
+
+Link: [https://proceedings.mlr.press/v120/bharadhwaj20a/bharadhwaj20a.pdf](https://proceedings.mlr.press/v120/bharadhwaj20a/bharadhwaj20a.pdf) Code: [https://github.com/homangab/gradcem](https://github.com/homangab/gradcem)
+
+**CORL 2021** Learning off-policy with online planning
+
+Arxiv: [https://arxiv.org/abs/2008.10066](https://arxiv.org/abs/2008.10066) Code: [https://github.com/hari-sikchi/LOOP](https://github.com/hari-sikchi/LOOP)
+
+**ICML 2022** Temporal difference learning for model predictive control
+
+Arxiv: [https://arxiv.org/abs/2203.04955](https://arxiv.org/abs/2203.04955) Code: [https://github.com/nicklashansen/tdmpc](https://github.com/nicklashansen/tdmpc)
 
 # :star: Synergistic Optimization of EA and RL
 ## Single-Agent Optimization
