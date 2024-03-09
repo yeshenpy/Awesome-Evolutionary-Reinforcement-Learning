@@ -131,7 +131,6 @@ Link: [https://arxiv.org/abs/1702.07490](https://arxiv.org/abs/1702.07490) Code:
 
 Link: [https://arxiv.org/abs/1711.09846](https://arxiv.org/abs/1711.09846) Code: [https://github.com/voiler/PopulationBasedTraining](https://github.com/voiler/PopulationBasedTraining)
 
-
 **ICLR 2021** Sample-efficient Automated Deep Reinforcement Learning
 
 Link: [https://arxiv.org/abs/2009.01555](https://arxiv.org/abs/2009.01555) Code: [https://github.com/automl/SEARL](https://github.com/automl/SEARL)
@@ -153,6 +152,22 @@ Link: [https://arxiv.org/abs/2006.07554](https://arxiv.org/abs/2006.07554) Code:
 **ICLR 2021** Evolving Reinforcement Learning Algorithms
 
 Link: [https://arxiv.org/abs/2101.03958](https://arxiv.org/abs/2101.03958) Code: Not Found
+
+**NeurIPS 2022** Discovered Policy Optimisation
+
+Link: [https://arxiv.org/abs/2210.05639](https://arxiv.org/abs/2210.05639) Code: [https://github.com/luchris429/discovered-policy-optimisation](https://github.com/luchris429/discovered-policy-optimisation)
+
+**ICLR 2024** Discovering Temporally-Aware Reinforcement Learning Algorithms
+
+Link: [https://arxiv.org/abs/2402.05828](https://arxiv.org/abs/2402.05828) Code: [https://github.com/EmptyJackson/groove](https://github.com/EmptyJackson/groove)
+
+**ICLR 2024** Behaviour Distillation
+
+Link: [https://openreview.net/forum?id=qup9xD8mW4](https://openreview.net/forum?id=qup9xD8mW4) Code: Not Foud
+
+**ICML 2023** Adversarial Cheap Talk
+
+Link: [https://arxiv.org/abs/2211.11030](https://arxiv.org/abs/2211.11030) Code: [https://github.com/luchris429/adversarial-cheap-talk](https://github.com/luchris429/adversarial-cheap-talk)
 
 **IROS 2021** PNS: Population-guided Novelty Search for Reinforcement Learning in Hard Exploration Environments
 
