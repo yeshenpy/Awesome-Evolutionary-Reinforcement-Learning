@@ -66,9 +66,10 @@ We provide three main research directions with various branches as follows: **(I
   - [Multi-Agent Optimization](#multi-agent-optimization)
   - [Others](#others-2)
 
-![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/fc550484-e9ef-4e14-9800-88a7355dcfc2)
 
-![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/96464ff7-db92-4cc8-bc3d-ad2edc76695e)
+![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/562fb989-bada-4499-8779-29e5f56be657)
+
+![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/c3bec864-9b20-42fa-8315-a11acceb9c7c)
 
 
 Detailed information can be found in our survey paper.
