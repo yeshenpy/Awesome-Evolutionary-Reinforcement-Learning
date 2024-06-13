@@ -64,7 +64,9 @@ We provide three main research directions with various branches as follows: **(I
 - [ :star: Synergistic Optimization of EA and RL](#synergistic-optimization-of-ea-and-rl)
   - [Single-Agent Optimization](#single-agent-optimization)
   - [Multi-Agent Optimization](#multi-agent-optimization)
-  - [Others](#others-2)
+  - [Morphological Evolution](#multi-agent-optimization)
+  - [Interpretable AI](#multi-agent-optimization)
+  - [Learning Classifier Systems](#others-2)
 
 
 ![image](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/assets/43668853/562fb989-bada-4499-8779-29e5f56be657)
@@ -422,10 +424,16 @@ Link [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi
 Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code: [Anonymous Code](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md) or [https://github.com/ShawK91/MERL](https://github.com/ShawK91/MERL)
 
 
-## Others
+## Morphological Evolution
 
 Waiting for updates
 
+## Interpretable AI
 
+Waiting for updates
+
+## Learning Classifier Systems
+
+Waiting for updates
 
 
