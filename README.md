@@ -156,7 +156,7 @@ Link: [https://arxiv.org/abs/2006.07554](https://arxiv.org/abs/2006.07554) Code:
 
 **ICLR 2021** Evolving Reinforcement Learning Algorithms
 
-Link: [https://arxiv.org/abs/2101.03958](https://arxiv.org/abs/2101.03958) Code: Not Found
+Link: [https://arxiv.org/abs/2101.03958](https://arxiv.org/abs/2101.03958) Code: [https://github.com/google/brain_autorl/tree/main/evolving_rl](https://github.com/google/brain_autorl/tree/main/evolving_rl)
 
 **NeurIPS 2022** Discovered Policy Optimisation
 
@@ -168,7 +168,7 @@ Link: [https://arxiv.org/abs/2402.05828](https://arxiv.org/abs/2402.05828) Code:
 
 **ICLR 2024** Behaviour Distillation
 
-Link: [https://openreview.net/forum?id=qup9xD8mW4](https://openreview.net/forum?id=qup9xD8mW4) Code: Not Foud
+Link: [https://openreview.net/forum?id=qup9xD8mW4](https://openreview.net/forum?id=qup9xD8mW4) Code: [https://github.com/FLAIROx/behaviour-distillation](https://github.com/FLAIROx/behaviour-distillation)
 
 **ICML 2023** Adversarial Cheap Talk
 
@@ -229,7 +229,7 @@ Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code
 
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
-Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: Not Found
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: [https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL](https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL)
 
 **ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
 
@@ -239,7 +239,7 @@ OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net
 
 **ICLR 2018** Policy Optimization By Genetic Distillation
 
-Link: [https://arxiv.org/abs/1711.01012](https://arxiv.org/abs/1711.01012) Code: Not Found
+Link: [https://arxiv.org/abs/1711.01012](https://arxiv.org/abs/1711.01012) Code: [https://www.catalyzex.com/paper/policy-optimization-by-genetic-distillation/code](https://www.catalyzex.com/paper/policy-optimization-by-genetic-distillation/code)
 
 **AAMMAS 2021** Guiding Evolutionary Strategies With Off-policy Actor-critic
 
@@ -251,7 +251,7 @@ Link: [https://ieeexplore.ieee.org/document/9660084](https://ieeexplore.ieee.org
 
 **IEEE Acess 2020** Efficient Novelty Search Through Deep Reinforcement Learning
 
-Link: [https://ieeexplore.ieee.org/document/9139203](https://ieeexplore.ieee.org/document/9139203) Code: Not Found
+Link: [https://ieeexplore.ieee.org/document/9139203](https://ieeexplore.ieee.org/document/9139203) Code: [https://github.com/shilx001/NoveltySearch_Improvement](https://github.com/shilx001/NoveltySearch_Improvement)
 
 **Comput. Intell. Neurosci 2021** Diversity Evolutionary Policy Deep Reinforcement Learning
 
@@ -259,7 +259,7 @@ Link: [https://www.hindawi.com/journals/cin/2021/5300189/](https://www.hindawi.c
 
 **Arxiv Preprint 2020** QD-RL: Efficient Mixing Of Quality And Diversity In Reinforcement Learning,
 
-Link: [https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning](https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning) Code: Not Found
+Link: [https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning](https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning) Code: [https://openreview.net/forum?id=5Dl1378QutR](https://openreview.net/forum?id=5Dl1378QutR)
 
 **GECCO 2021** Policy Gradient Assisted Map-elites
 
@@ -271,7 +271,7 @@ Link: [https://arxiv.org/abs/2202.03666](https://arxiv.org/abs/2202.03666) Code:
 
 **ICLR 2024** Sample-efficient Quality-diversity By Cooperative Coevolution
 
-Link: [https://openreview.net/forum?id=JDud6zbpFv](https://openreview.net/forum?id=JDud6zbpFv) Code: Not Found
+Link: [https://openreview.net/forum?id=JDud6zbpFv](https://openreview.net/forum?id=JDud6zbpFv) Code: [https://openreview.net/forum?id=JDud6zbpFv](https://openreview.net/forum?id=JDud6zbpFv)
 
 **ICLR 2023** Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery
 
@@ -280,10 +280,6 @@ Link: [https://openreview.net/forum?id=6BHlZgyPOZY](https://openreview.net/forum
 **GECCO 2022** Approximating Gradients for Differentiable Quality Diversity in Reinforcement Learning
 
 Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pdf) Code: [https://github.com/icaros-usc/dqd-rl](https://github.com/icaros-usc/dqd-rl)
-
-**Preprint 2022** QD-RL: Efficient Mixing of Quality and Diversity in Reinforcement Learning
-
-Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
 
 **ICLR 2019** CEM-RL: Combining evolutionary and gradient-based methods for policy search
 
@@ -313,7 +309,7 @@ Link: [https://www.researchgate.net/publication/365582495_Variational_Reinforcem
 
 **IEEE Comput. Intell. Mag., 2023** Controlling sequential hybrid evolutionary algorithm by q-learning
 
-Link: [https://ieeexplore.ieee.org/document/10035716/](https://ieeexplore.ieee.org/document/10035716/) Code: Not Found
+Link: [https://ieeexplore.ieee.org/document/10035716/](https://ieeexplore.ieee.org/document/10035716/) Code: [https://github.com/xiaomeiabc/Controlling-Sequential-Hybrid-Evolutionary-Algorithm-by-Q-Learning](https://github.com/xiaomeiabc/Controlling-Sequential-Hybrid-Evolutionary-Algorithm-by-Q-Learning)
 
 **NeurIPS 2022** Multiagent dynamic algorithm configuration
 
@@ -360,7 +356,7 @@ Link: [https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_page
 
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
-Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: Not Found
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: [https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL](https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL)
 
 **Preprint** Evolutionary action selection for gradient-based policy learning
 
@@ -382,7 +378,7 @@ Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code
 
 **LOD 2020** Gradient Bias to Solve the Generalization Limit of Genetic Algorithms Through Hybridization with Reinforcement Learning
 
-Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26) Code: Not Found
+Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26) Code: [https://github.com/ricordium/Gradient-Bias](https://github.com/ricordium/Gradient-Bias)
 
 **ICML 2019** Collaborative Evolutionary Reinforcement Learning 
 
