@@ -251,7 +251,7 @@ Link: [https://ieeexplore.ieee.org/document/9660084](https://ieeexplore.ieee.org
 
 **IEEE Acess 2020** Efficient Novelty Search Through Deep Reinforcement Learning
 
-Link: [https://ieeexplore.ieee.org/document/9139203](https://ieeexplore.ieee.org/document/9139203) Code: Not Found
+Link: [https://ieeexplore.ieee.org/document/9139203](https://ieeexplore.ieee.org/document/9139203) Code: [https://github.com/shilx001/NoveltySearch_Improvement](https://github.com/shilx001/NoveltySearch_Improvement)
 
 **Comput. Intell. Neurosci 2021** Diversity Evolutionary Policy Deep Reinforcement Learning
 
@@ -259,7 +259,7 @@ Link: [https://www.hindawi.com/journals/cin/2021/5300189/](https://www.hindawi.c
 
 **Arxiv Preprint 2020** QD-RL: Efficient Mixing Of Quality And Diversity In Reinforcement Learning,
 
-Link: [https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning](https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning) Code: Not Found
+Link: [https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning](https://www.researchgate.net/publication/342198149_QD-RL_Efficient_Mixing_of_Quality_and_Diversity_in_Reinforcement_Learning) Code: [https://openreview.net/forum?id=5Dl1378QutR](https://openreview.net/forum?id=5Dl1378QutR)
 
 **GECCO 2021** Policy Gradient Assisted Map-elites
 
@@ -271,7 +271,7 @@ Link: [https://arxiv.org/abs/2202.03666](https://arxiv.org/abs/2202.03666) Code:
 
 **ICLR 2024** Sample-efficient Quality-diversity By Cooperative Coevolution
 
-Link: [https://openreview.net/forum?id=JDud6zbpFv](https://openreview.net/forum?id=JDud6zbpFv) Code: Not Found
+Link: [https://openreview.net/forum?id=JDud6zbpFv](https://openreview.net/forum?id=JDud6zbpFv) Code: [https://openreview.net/forum?id=JDud6zbpFv](https://openreview.net/forum?id=JDud6zbpFv)
 
 **ICLR 2023** Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery
 
