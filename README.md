@@ -229,7 +229,7 @@ Arxiv: [https://arxiv.org/abs/2210.17375](https://arxiv.org/abs/2210.17375) Code
 
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
-Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: Not Found
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: [https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL](https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL)
 
 **ICLR 2021 submission** PGPS: Coupling Policy Gradient with Population-based Search
 
