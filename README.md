@@ -281,10 +281,6 @@ Link: [https://openreview.net/forum?id=6BHlZgyPOZY](https://openreview.net/forum
 
 Link: [https://arxiv.org/pdf/2202.03666.pdf](https://arxiv.org/pdf/2202.03666.pdf) Code: [https://github.com/icaros-usc/dqd-rl](https://github.com/icaros-usc/dqd-rl)
 
-**Preprint 2022** QD-RL: Efficient Mixing of Quality and Diversity in Reinforcement Learning
-
-Link：[https://arxiv.org/abs/2006.08505v2](https://arxiv.org/abs/2006.08505v2) Code: Not Found
-
 **ICLR 2019** CEM-RL: Combining evolutionary and gradient-based methods for policy search
 
 Arxiv: [https://arxiv.org/abs/1810.01222](https://arxiv.org/abs/1810.01222) Code: [https://github.com/apourchot/CEM-RL](https://github.com/apourchot/CEM-RL)
@@ -313,7 +309,7 @@ Link: [https://www.researchgate.net/publication/365582495_Variational_Reinforcem
 
 **IEEE Comput. Intell. Mag., 2023** Controlling sequential hybrid evolutionary algorithm by q-learning
 
-Link: [https://ieeexplore.ieee.org/document/10035716/](https://ieeexplore.ieee.org/document/10035716/) Code: Not Found
+Link: [https://ieeexplore.ieee.org/document/10035716/](https://ieeexplore.ieee.org/document/10035716/) Code: [https://github.com/xiaomeiabc/Controlling-Sequential-Hybrid-Evolutionary-Algorithm-by-Q-Learning](https://github.com/xiaomeiabc/Controlling-Sequential-Hybrid-Evolutionary-Algorithm-by-Q-Learning)
 
 **NeurIPS 2022** Multiagent dynamic algorithm configuration
 
