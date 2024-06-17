@@ -168,7 +168,7 @@ Link: [https://arxiv.org/abs/2402.05828](https://arxiv.org/abs/2402.05828) Code:
 
 **ICLR 2024** Behaviour Distillation
 
-Link: [https://openreview.net/forum?id=qup9xD8mW4](https://openreview.net/forum?id=qup9xD8mW4) Code: Not Foud
+Link: [https://openreview.net/forum?id=qup9xD8mW4](https://openreview.net/forum?id=qup9xD8mW4) Code: [https://github.com/FLAIROx/behaviour-distillation](https://github.com/FLAIROx/behaviour-distillation)
 
 **ICML 2023** Adversarial Cheap Talk
 
