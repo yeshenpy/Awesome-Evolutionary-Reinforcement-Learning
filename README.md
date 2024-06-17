@@ -239,7 +239,7 @@ OpenReview: [https://openreview.net/forum?id=PeT5p3ocagr](https://openreview.net
 
 **ICLR 2018** Policy Optimization By Genetic Distillation
 
-Link: [https://arxiv.org/abs/1711.01012](https://arxiv.org/abs/1711.01012) Code: Not Found
+Link: [https://arxiv.org/abs/1711.01012](https://arxiv.org/abs/1711.01012) Code: [https://www.catalyzex.com/paper/policy-optimization-by-genetic-distillation/code](https://www.catalyzex.com/paper/policy-optimization-by-genetic-distillation/code)
 
 **AAMMAS 2021** Guiding Evolutionary Strategies With Off-policy Actor-critic
 
