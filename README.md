@@ -356,7 +356,7 @@ Link: [https://nbviewer.org/github/karush17/karush17.github.io/blob/master/_page
 
 **ELSEVIER Information Sciences** A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning
 
-Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: Not Found
+Arxiv: [https://arxiv.org/abs/2201.00129](https://arxiv.org/abs/2201.00129) Code: [https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL](https://github.com/Yuxing-Wang-THU/Surrogate-assisted-ERL)
 
 **Preprint** Evolutionary action selection for gradient-based policy learning
 
@@ -378,7 +378,7 @@ Arxiv: [https://arxiv.org/abs/1906.09807](https://arxiv.org/abs/1906.09807) Code
 
 **LOD 2020** Gradient Bias to Solve the Generalization Limit of Genetic Algorithms Through Hybridization with Reinforcement Learning
 
-Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26) Code: Not Found
+Link: [https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26](https://dl.acm.org/doi/abs/10.1007/978-3-030-64583-0_26) Code: [https://github.com/ricordium/Gradient-Bias](https://github.com/ricordium/Gradient-Bias)
 
 **ICML 2019** Collaborative Evolutionary Reinforcement Learning 
 
