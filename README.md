@@ -445,7 +445,30 @@ Link: [https://arxiv.org/abs/2102.13100](https://arxiv.org/abs/2102.13100) Code:
 
 ## Interpretable AI
 
-Waiting for updates
+**IEEE Transactions on Cybernetics 2024** Interpretable-AI Policies using Evolutionary Nonlinear Decision Trees for Discrete Action Systems
+
+Link: [https://ieeexplore.ieee.org/document/9805655](https://ieeexplore.ieee.org/document/9805655) Code: [https://github.com/yddhebar/NLDT](https://github.com/yddhebar/NLDT)
+
+**GECCO 2022** Interpretable ai for policy-making in pandemics
+
+Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
+
+**SSCI 2021** A co-evolutionary approach to interpretable reinforcement learning in environments with continuous action spaces
+
+Link: [https://ieeexplore.ieee.org/document/9660048](https://ieeexplore.ieee.org/document/9660048) Code: Not found
+
+**SIGAPP 2023** Quality diversity evolutionary  learning of decision trees
+
+Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
+
+**Preprint** Social Interpretable Reinforcement Learning
+
+Link: [https://arxiv.org/abs/2401.15480](https://arxiv.org/abs/2401.15480) Code: Not found
+
+**Access 2021** Symbolic regression methods for reinforcement learning,
+
+Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
+
 
 ## Learning Classifier Systems
 
