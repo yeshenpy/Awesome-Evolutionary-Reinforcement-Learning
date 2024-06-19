@@ -465,13 +465,27 @@ Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code:
 
 Link: [https://arxiv.org/abs/2401.15480](https://arxiv.org/abs/2401.15480) Code: Not found
 
-**Access 2021** Symbolic regression methods for reinforcement learning,
+**Access 2021** Symbolic regression methods for reinforcement learning
 
 Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
 
 
 ## Learning Classifier Systems
 
-Waiting for updates
+**Evolutionary computation 1995** Classifier fitness based on accuracy
+
+Link: [https://dl.acm.org/doi/10.1162/evco.1995.3.2.149](https://dl.acm.org/doi/10.1162/evco.1995.3.2.149) Code: [https://github.com/hosford42/xcs](https://github.com/hosford42/xcs)
+
+**Natural Computing 2002** Classifiers that approximate functions
+
+Link: [https://link.springer.com/article/10.1023/A:1016535925043](https://link.springer.com/article/10.1023/A:1016535925043) Code: Not found
+
+**Evolutionary Intelligence 2015** XCSF with tile coding in discontinuous action-value landscapes
+
+Link: [https://link.springer.com/article/10.1007/s12065-015-0129-7](https://link.springer.com/article/10.1007/s12065-015-0129-7) Code: Not found
+
+**Evolutionary Computation 2013** Dynamical genetic programming in XCSF
+
+Link: [https://pubmed.ncbi.nlm.nih.gov/22564070/](https://pubmed.ncbi.nlm.nih.gov/22564070/) Code: Not found
 
 
