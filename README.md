@@ -11,11 +11,7 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 **This repository is under construction ...**
 
-**16 April 2024**: I will be updating the paper and the website this month. The new paper will include more related work. Stay tuned!
-
-**17 February 2024**: I am in the process of filling in the related methods and codes according to the survey.
-
-**23 January 2024**: Our survey paper has been updated on arXiv. Arxiv: **[Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](http://arxiv.org/abs/2401.11963)**  **This survey is now categorized to better align with the conventions of researchers in different fields, providing a quicker and more accessible introduction for researchers.** 
+**20 June 2024**: Our survey paper (new version) has been updated on arXiv. Arxiv: **[Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](http://arxiv.org/abs/2401.11963)**  **This survey is now categorized to better align with the conventions of researchers in different fields, providing a quicker and more accessible introduction for researchers.** 
 
 **20 January 2024**: I am updating the survey on this topic and will fully update the site when the survey is updated.
 
