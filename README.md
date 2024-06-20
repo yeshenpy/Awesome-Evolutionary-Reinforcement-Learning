@@ -341,6 +341,13 @@ Arxiv: [https://arxiv.org/abs/2203.04955](https://arxiv.org/abs/2203.04955) Code
 
 ## Single-Agent Optimization
 
+**ICML 2024** EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search
+
+Link: [https://openreview.net/forum?id=75Hes6Zse4](https://openreview.net/forum?id=75Hes6Zse4) Code: [https://github.com/yeshenpy/EvoRainbow](https://github.com/yeshenpy/EvoRainbow)
+
+**ICML 2024**  Value-Evolutionary-Based Reinforcement Learning
+
+Link: [https://openreview.net/forum?id=XobPpcN4yZ](https://openreview.net/forum?id=XobPpcN4yZ)  Code: [https://github.com/yeshenpy/VEB-RL](https://github.com/yeshenpy/VEB-RL)
 
 **ICLR 2023** ERL-Re2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation 
 
