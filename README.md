@@ -413,7 +413,7 @@ Arxiv: [https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23](https://
 
 **GECCO 2021** MAEDyS: multiagent evolution via dynamic skill selection 
 
-Link [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi/abs/10.1145/3449639.3459387) Code: Not Found
+Link: [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://dl.acm.org/doi/abs/10.1145/3449639.3459387) Code: Not Found
 
 **ICML 2020** Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination
 
@@ -422,14 +422,70 @@ Arxiv: [https://arxiv.org/abs/1906.07315](https://arxiv.org/abs/1906.07315) Code
 
 ## Morphological Evolution
 
-Waiting for updates
+**NeurIPS 2021** Evolution gym: A large-scale benchmark for evolving soft robots
+
+Link: [https://dl.acm.org/doi/abs/10.1145/3449639.3459387](https://arxiv.org/abs/2201.09863) Code: [http://evogym.csail.mit.edu](http://evogym.csail.mit.edu)
+
+**Preprint** Leveraging hyperbolic embeddings for coarse-to-fine robot design
+
+Link: [https://arxiv.org/abs/2311.00462](https://arxiv.org/abs/2311.00462)  Code: [https://github.com/drdh/HERD](https://github.com/drdh/HERD)
+
+**TEC 2023** Rapidly evolving soft robots via action inheritance
+
+Link: [https://ieeexplore.ieee.org/document/10296048](https://ieeexplore.ieee.org/document/10296048) Code: [https://github.com/HandingWangXDGroup/AIEA](https://github.com/HandingWangXDGroup/AIEA)
+
+**Nature Communications 2021** Embodied Intelligence via Learning and Evolution
+
+Link: [https://arxiv.org/abs/2102.02202](https://arxiv.org/abs/2102.02202) Code: [https://github.com/agrimgupta92/derl](https://github.com/agrimgupta92/derl)
+
+**ICLR 2021** Task-Agnostic Morphology Evolution
+
+Link: [https://arxiv.org/abs/2102.13100](https://arxiv.org/abs/2102.13100) Code: [https://github.com/jhejna/morphology-opt](https://github.com/jhejna/morphology-opt)
+
 
 ## Interpretable AI
 
-Waiting for updates
+**IEEE Transactions on Cybernetics 2024** Interpretable-AI Policies using Evolutionary Nonlinear Decision Trees for Discrete Action Systems
+
+Link: [https://ieeexplore.ieee.org/document/9805655](https://ieeexplore.ieee.org/document/9805655) Code: [https://github.com/yddhebar/NLDT](https://github.com/yddhebar/NLDT)
+
+**GECCO 2022** Interpretable ai for policy-making in pandemics
+
+Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
+
+**SSCI 2021** A co-evolutionary approach to interpretable reinforcement learning in environments with continuous action spaces
+
+Link: [https://ieeexplore.ieee.org/document/9660048](https://ieeexplore.ieee.org/document/9660048) Code: Not found
+
+**SIGAPP 2023** Quality diversity evolutionary  learning of decision trees
+
+Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
+
+**Preprint** Social Interpretable Reinforcement Learning
+
+Link: [https://arxiv.org/abs/2401.15480](https://arxiv.org/abs/2401.15480) Code: Not found
+
+**Access 2021** Symbolic regression methods for reinforcement learning
+
+Link: [https://arxiv.org/abs/2204.04256](https://arxiv.org/abs/2204.04256) Code: Not found
+
 
 ## Learning Classifier Systems
 
-Waiting for updates
+**Evolutionary computation 1995** Classifier fitness based on accuracy
+
+Link: [https://dl.acm.org/doi/10.1162/evco.1995.3.2.149](https://dl.acm.org/doi/10.1162/evco.1995.3.2.149) Code: [https://github.com/hosford42/xcs](https://github.com/hosford42/xcs)
+
+**Natural Computing 2002** Classifiers that approximate functions
+
+Link: [https://link.springer.com/article/10.1023/A:1016535925043](https://link.springer.com/article/10.1023/A:1016535925043) Code: Not found
+
+**Evolutionary Intelligence 2015** XCSF with tile coding in discontinuous action-value landscapes
+
+Link: [https://link.springer.com/article/10.1007/s12065-015-0129-7](https://link.springer.com/article/10.1007/s12065-015-0129-7) Code: Not found
+
+**Evolutionary Computation 2013** Dynamical genetic programming in XCSF
+
+Link: [https://pubmed.ncbi.nlm.nih.gov/22564070/](https://pubmed.ncbi.nlm.nih.gov/22564070/) Code: Not found
 
 
