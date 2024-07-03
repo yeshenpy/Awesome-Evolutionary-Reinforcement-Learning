@@ -4,6 +4,7 @@
 # 🚀 Awesome-Evolutionary-Reinforcement-Learning
 Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorithms (EAs) and Reinforcement Learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing the strengths of both approaches, ERL has emerged as a promising research direction. 
 
+**We want to create a survey that researchers from different academic backgrounds can quickly understand and get started with.**
 
 <!--## [![](https://img.shields.io/badge/-Update%20List-orange)]() --> 
 
