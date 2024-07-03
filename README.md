@@ -39,7 +39,14 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 }
 ```
 
+**Other Surveys:**
 
+- Combining evolution and deep reinforcement learning for policy search: a survey
+- Deep reinforcement learning versus evolution strategies: A comparative survey
+- A survey on evolutionary reinforcement learning algorithms
+- Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms
+- Evolutionary computation and the reinforcement learning problem
+- Evolutionary reinforcement learning: A survey
 
 # 🎥 Resources
 
