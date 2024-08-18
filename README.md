@@ -14,7 +14,7 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 **26 July 2024**:  :fire::fire::fire: **The paper has been accepted by the top journal in evolutionary computation (IEEE Transactions on Evolutionary Computation, TEvC).**
 
-**20 June 2024**: Our survey paper (new version) has been updated on arXiv. Arxiv: **[Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](http://arxiv.org/abs/2401.11963)**  **This survey is now categorized to better align with the conventions of researchers in different fields, providing a quicker and more accessible introduction for researchers.** 
+**20 June 2024**: Our survey paper (new version) has been updated on arXiv. Arxiv: **[Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](https://ieeexplore.ieee.org/document/10637292)**  **This survey is now categorized to better align with the conventions of researchers in different fields, providing a quicker and more accessible introduction for researchers.** 
 
 **20 January 2024**: I am updating the survey on this topic and will fully update the site when the survey is updated.
 
@@ -34,12 +34,14 @@ Furthermore, building your algorithm on top of state-of-the-art algorithms will 
 **If you do find our survey or the repository helpful (or if you would be so kind as to offer us some encouragement), please consider kindly giving a star, and citing our paper.**
 
 ```
-@article{li2024bridging,
-  title={Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey},
-  author={Pengyi Li and Jianye Hao and Hongyao Tang and Xian Fu and Yan Zheng and Ke Tang},
-  journal={arXiv preprint arXiv:2401.11963},
-  year={2024}
-}
+@ARTICLE{10637292,
+  author={Li, Pengyi and Hao, Jianye and Tang, Hongyao and Fu, Xian and Zhen, Yan and Tang, Ke},
+  journal={IEEE Transactions on Evolutionary Computation}, 
+  title={Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms}, 
+  year={2024},
+  keywords={Optimization;Sociology;Evolutionary computation;Decision making;Surveys;Reinforcement learning;Genomics;Evolutionary Algorithms;Reinforcement Learning;Evolutionary 
+  Reinforcement Learning},
+  doi={10.1109/TEVC.2024.3443913}}
 ```
 
 **Other Surveys:**
