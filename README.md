@@ -8,6 +8,10 @@ Evolutionary Reinforcement Learning (ERL), which integrates Evolutionary Algorit
 
 <!--## [![](https://img.shields.io/badge/-Update%20List-orange)]() --> 
 
+# 🚨 Important Notice
+<p><strong>10-12-2025: If you would like your paper to be included in the survey, please open an issue on this GitHub repository and provide the BibTeX entry along with a brief description of your method (including its category). I will review and participate in the discussion, and the updated arXiv version will be released at the end of October.</strong></p>
+
+
 # 📋 Update List
 
 **This repository is under construction ...**
