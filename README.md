@@ -1,30 +1,70 @@
+> [!IMPORTANT]
+> **Official companion repository for [*Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms*](https://arxiv.org/abs/2401.11963).**<br>
+> This repository helps readers enter the ERL field faster, reproduce representative methods, navigate the survey taxonomy, and track new papers and code.
+
+<div align="center" markdown="1">
+
+<img src="assets/erl-hero.svg" alt="Official companion repository for the evolutionary reinforcement learning survey" width="100%">
+
 # Awesome Evolutionary Reinforcement Learning
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Survey](https://img.shields.io/badge/Survey-arXiv%3A2401.11963-b31b1b.svg)](https://arxiv.org/abs/2401.11963)
-[![IEEE TEVC](https://img.shields.io/badge/IEEE%20TEVC-2025-00629B.svg)](https://doi.org/10.1109/TEVC.2024.3443913)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#contributing)
+<p><strong>The research companion for studying, reproducing, and extending ERL</strong></p>
 
-A curated collection of papers, implementations, benchmarks, and tooling for **Evolutionary Reinforcement Learning (ERL)**: hybrid methods that combine Evolutionary Algorithms (EAs) and Reinforcement Learning (RL).
+<p>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://arxiv.org/abs/2401.11963"><img src="https://img.shields.io/badge/Survey-arXiv%3A2401.11963-b31b1b.svg" alt="Survey"></a>
+  <a href="https://doi.org/10.1109/TEVC.2024.3443913"><img src="https://img.shields.io/badge/IEEE%20TEVC-2025-00629B.svg" alt="IEEE TEVC"></a>
+  <a href="#contributing"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions welcome"></a>
+</p>
 
-This repository follows the taxonomy in the latest version of:
+**Evolutionary Reinforcement Learning (ERL)** combines the global search and population diversity of evolutionary algorithms with the learning efficiency and decision-making capabilities of reinforcement learning. This collection is organized to move readers quickly from the survey taxonomy to papers, implementations, and open research directions.
 
-> **Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms**
-> Pengyi Li, Jianye Hao, Hongyao Tang, Xian Fu, Yan Zheng, and Ke Tang.
-> IEEE Transactions on Evolutionary Computation, 29(5):1707-1728, 2025.
-> [IEEE](https://doi.org/10.1109/TEVC.2024.3443913) | [arXiv v5](https://arxiv.org/abs/2401.11963) | [PDF](https://arxiv.org/pdf/2401.11963)
+[**Read the survey**](https://arxiv.org/abs/2401.11963) · [**Browse the taxonomy**](#taxonomy) · [**Start from code**](#code-first-reading-list) · [**See recent work**](#recent-and-emerging-directions)
 
-## Latest update
+</div>
 
-- **28 Aug 2026**: synchronized the repository with arXiv v5; added Reward Design, Dynamic Operator Selection, missing QD methods, recent 2024-2026 works, code repositories, frameworks, and updated taxonomy figures.
-- **26 Jul 2024**: the survey was accepted by IEEE Transactions on Evolutionary Computation.
+---
 
-If a paper, codebase, or category is missing, please [open an issue](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/issues) with its BibTeX entry, official paper URL, official code URL, and proposed category.
+## Overview
 
-## Contents
+| **3** major directions | **16** research branches | **157** indexed entries | **62** distinct GitHub links |
+|:---:|:---:|:---:|:---:|
+| EA → RL · RL → EA · Synergy | Survey-aligned taxonomy | Papers, methods, and tools | Official and labeled community code |
 
-- [How to use this list](#how-to-use-this-list)
+<sub>Counts reflect the full collection tables on 29 Aug 2026. Indexed entries include intentional cross-listings; the GitHub figure counts distinct URLs, not distinct algorithms.</sub>
+
+> [!IMPORTANT]
+> **Which survey version should you use?** Cite the [IEEE version of record](https://ieeexplore.ieee.org/document/10637292), read [arXiv v5](https://arxiv.org/abs/2401.11963) for the latest paper content, and use this repository for code and ongoing updates. [See the exact differences ↓](#survey-versions)
+
+### Choose a direction
+
+| 01 · **EA assists RL** | 02 · **RL assists EA** | 03 · **EA and RL collaborate** |
+|---|---|---|
+| Evolution searches policies, actions, hyperparameters, curricula, or reward structures for RL. | RL configures initialization, evaluation, variation, operator selection, and EA hyperparameters. | Population search and gradient learning exchange information or optimize jointly. |
+| [Explore EA-assisted RL ↓](#ea-assisted-optimization-of-rl) | [Explore RL-assisted EA ↓](#rl-assisted-optimization-of-ea) | [Explore synergistic ERL ↓](#synergistic-optimization-of-ea-and-rl) |
+
+### Quick paths
+
+**Need reproducible baselines?** Start from the [code-first list](#code-first-reading-list) and [frameworks](#frameworks-benchmarks-and-tooling).<br>
+**Tracking the newest work?** Go to [recent and emerging directions](#recent-and-emerging-directions).
+
+> [!NOTE]
+> **Code labels:** repository links are author-maintained unless explicitly marked as a community implementation. `Not found` means no verified public implementation was located. Some methods are intentionally cross-listed when one mechanism contributes to multiple branches.
+
+<details markdown="1">
+<summary><strong>Changelog</strong></summary>
+
+- **28 Aug 2026** — synchronized the collection with arXiv v5; added Reward Design, Dynamic Operator Selection, missing QD methods, recent 2024–2026 work, verified code repositories, frameworks, and updated taxonomy figures.
+- **26 Jul 2024** — the survey was accepted by *IEEE Transactions on Evolutionary Computation*.
+
+</details>
+
+<details markdown="1">
+<summary><strong>Full section index</strong></summary>
+
+- [Overview](#overview)
 - [Taxonomy](#taxonomy)
+- [Survey versions](#survey-versions)
 - [Code-first reading list](#code-first-reading-list)
 - [EA-assisted Optimization of RL](#ea-assisted-optimization-of-rl)
   - [EA-assisted Parameter Search](#ea-assisted-parameter-search)
@@ -51,29 +91,47 @@ If a paper, codebase, or category is missing, please [open an issue](https://git
 - [Contributing](#contributing)
 - [Citation](#citation)
 
-## How to use this list
-
-- For sequential decision-making, begin with **EA-assisted Optimization of RL** and **Synergistic Optimization of EA and RL**.
-- For combinatorial, continuous, multi-objective, or multimodal optimization, begin with **RL-assisted Optimization of EA**.
-- For reproducible baselines, start from the [code-first reading list](#code-first-reading-list) and [frameworks](#frameworks-benchmarks-and-tooling).
-- `Code: Not found` means that no author-maintained public repository was verified. Paper pages are never labeled as code.
-- Some works are intentionally cross-listed because the same mechanism contributes to more than one branch.
+</details>
 
 ## Taxonomy
 
 The survey organizes ERL into three major directions and sixteen research branches.
 
-![ERL taxonomy](assets/erl-taxonomy.png)
+<p align="center">
+  <img src="assets/erl-taxonomy.png" alt="ERL taxonomy" width="900">
+</p>
 
-The image reproduces survey v5 Figure 1. The v5 body and Table V additionally include **LERO** under Reward Design and explicitly discuss **XCSRG** alongside XCSG; the detailed tables below follow the body and tables when they are more complete than the figure.
+<p align="center"><sub><strong>Figure 1.</strong> Taxonomy of evolutionary reinforcement learning in survey v5.</sub></p>
 
-The four integration patterns clarify whether EA assists RL, RL assists EA, or both optimizers collaborate in solution or decomposed problem spaces.
+> [!NOTE]
+> Survey v5 Table V and the body text additionally include **LERO** under Reward Design and discuss **XCSRG** alongside XCSG. The detailed tables below follow the more complete body and tabular taxonomy.
 
-![Four integration approaches](assets/integration-approaches.png)
+<p align="center">
+  <img src="assets/integration-approaches.png" alt="Four integration approaches" width="900">
+</p>
+
+<p align="center"><sub><strong>Figure 2.</strong> Four integration patterns connecting EA and RL across solution and decomposed problem spaces.</sub></p>
+
+## Survey versions
+
+| Version | Status and recommended use |
+|---|---|
+| **Official published version** | [IEEE TEVC](https://ieeexplore.ieee.org/document/10637292), Vol. 29, No. 5, pp. 1707–1728, 2025 · [DOI](https://doi.org/10.1109/TEVC.2024.3443913)<br>The peer-reviewed version of record. **Use it for formal citation.** |
+| **Current paper version** | [arXiv v5](https://arxiv.org/abs/2401.11963), revised **24 May 2026** · [PDF](https://arxiv.org/pdf/2401.11963)<br>The author-updated manuscript with expanded method coverage. **Use it for the latest survey content.** |
+| **Current repository version** | Synced **28 Aug 2026** with v5, verified code links, frameworks, and a recent-work watchlist. **Use it for implementation and tracking.** |
+
+> **Difference at a glance:** **IEEE = archival citation** · **arXiv v5 = latest paper content** · **GitHub = maintained implementation index**
+
+The repository includes code availability, tooling, and newer work that should not be treated as part of the archival IEEE article.
+
+**Paper:** *Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms* — Pengyi Li, Jianye Hao, Hongyao Tang, Xian Fu, Yan Zheng, and Ke Tang.
 
 ## Code-first reading list
 
 The following papers have public implementations verified against the paper, project page, or authors' repositories and are useful starting points. Community reimplementations are kept out of this short list and labeled explicitly in the full taxonomy.
+
+<details open markdown="1">
+<summary><strong>Verified code-first collection (32 entries)</strong></summary>
 
 | Direction | Method | Paper | Code |
 |---|---|---|---|
@@ -110,11 +168,15 @@ The following papers have public implementations verified against the paper, pro
 | Morphology | DERL | [Embodied Intelligence via Learning and Evolution](https://arxiv.org/abs/2102.02202) | [agrimgupta92/derl](https://github.com/agrimgupta92/derl) |
 | Morphology | TAME | [Task-Agnostic Morphology Evolution](https://arxiv.org/abs/2102.13100) | [jhejna/morphology-opt](https://github.com/jhejna/morphology-opt) |
 
-# EA-assisted Optimization of RL
+</details>
 
-EA is used as a supporting optimizer for RL. The RL process remains responsible for solving the task.
+## EA-assisted Optimization of RL
 
-## EA-assisted Parameter Search
+> **EA → RL** · Evolutionary search supports reinforcement learning while RL remains responsible for solving the task.
+
+[↑ Overview](#overview) · [Next: RL-assisted EA →](#rl-assisted-optimization-of-ea)
+
+### EA-assisted Parameter Search
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -122,7 +184,10 @@ EA is used as a supporting optimizer for RL. The RL process remains responsible 
 | Supe-RL | [Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning](https://openreview.net/forum?id=TGFO0DbD_pk) | ICLR 2021 | Not found |
 | VFS | [Improving Deep Policy Gradients with Value Function Search](https://openreview.net/forum?id=6qZC7pfenQm) | ICLR 2023 | Not found |
 
-## EA-assisted Action Selection
+### EA-assisted Action Selection
+
+<details open markdown="1">
+<summary><strong>Browse all 7 methods</strong></summary>
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -134,7 +199,9 @@ EA is used as a supporting optimizer for RL. The RL process remains responsible 
 | OMAR | [Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification](https://arxiv.org/abs/2111.11188) | ICML 2022 | [ling-pan/OMAR](https://github.com/ling-pan/OMAR) |
 | COMIX | [Deep Multi-Agent RL for Decentralized Continuous Cooperative Control](https://arxiv.org/abs/2003.06709v1) | Preprint 2020 | [oxwhirl/comix](https://github.com/oxwhirl/comix) |
 
-## Hyperparameter Optimization
+</details>
+
+### Hyperparameter Optimization
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -145,7 +212,10 @@ EA is used as a supporting optimizer for RL. The RL process remains responsible 
 | AAC | [Towards Automatic Actor-Critic Solutions to Continuous Control](https://arxiv.org/abs/2106.08918) | Preprint 2021 | [jakegrigsby/deep_control](https://github.com/jakegrigsby/deep_control) |
 | OHT-ES | [Online Hyper-Parameter Tuning in Off-Policy Learning via Evolutionary Strategies](https://arxiv.org/abs/2006.07554) | Preprint 2020 | Not found |
 
-## Other EA-assisted RL methods
+### Other EA-assisted RL methods
+
+<details open markdown="1">
+<summary><strong>Browse all 12 methods</strong></summary>
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -162,11 +232,15 @@ EA is used as a supporting optimizer for RL. The RL process remains responsible 
 | MAPPER | [MAPPER: Multi-Agent Path Planning with Evolutionary Reinforcement Learning in Mixed Dynamic Environments](https://arxiv.org/abs/2007.15724) | IROS 2020 | Not found |
 | EvIL | [Evolution Strategies for Generalisable Imitation Learning](https://arxiv.org/abs/2406.11905) | ICML 2024 | [SilviaSapora/evil](https://github.com/SilviaSapora/evil) |
 
-# RL-assisted Optimization of EA
+</details>
 
-RL is used as a supporting optimizer for one or more stages of an EA.
+## RL-assisted Optimization of EA
 
-## Population Initialization
+> **RL → EA** · Reinforcement learning configures or improves one or more stages of an evolutionary algorithm.
+
+[← EA-assisted RL](#ea-assisted-optimization-of-rl) · [↑ Overview](#overview) · [Next: Synergistic ERL →](#synergistic-optimization-of-ea-and-rl)
+
+### Population Initialization
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -174,7 +248,7 @@ RL is used as a supporting optimizer for one or more stages of an EA.
 | RL-guided GA | [Rule-Based Reinforcement Learning to Inform Evolutionary Algorithms](https://doi.org/10.1016/j.knosys.2021.106836) | Knowledge-Based Systems 2021 | [mradaideh/neorl](https://github.com/mradaideh/neorl) |
 | DeepACO | [Neural-Enhanced Ant Systems for Combinatorial Optimization](https://arxiv.org/abs/2309.14032) | NeurIPS 2023 | [henry-yeh/DeepACO](https://github.com/henry-yeh/DeepACO) |
 
-## Population Evaluation
+### Population Evaluation
 
 These methods are intentionally cross-listed with synergistic policy optimization because RL both evaluates and exchanges information with the population.
 
@@ -182,7 +256,10 @@ These methods are intentionally cross-listed with synergistic policy optimizatio
 - **PGPS** - [Coupling Policy Gradient with Population-Based Search](https://openreview.net/forum?id=PeT5p3ocagr) - Code: Not found
 - **ERL-Re2** - [ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation](https://arxiv.org/abs/2210.17375) - [code](https://github.com/yeshenpy/ERL-Re2)
 
-## Variation Operator
+### Variation Operator
+
+<details open markdown="1">
+<summary><strong>Browse all 13 methods</strong></summary>
 
 | Method | Paper | Code |
 |---|---|---|
@@ -200,9 +277,14 @@ These methods are intentionally cross-listed with synergistic policy optimizatio
 | RefQD | [Quality-Diversity with Limited Resources](https://arxiv.org/abs/2406.03731) | [lamda-bbo/RefQD](https://github.com/lamda-bbo/RefQD) |
 | Wuji | [Automatic Online Combat Game Testing Using Evolutionary Deep RL](https://doi.org/10.1109/ASE.2019.00077) | [NeteaseFuxiRL/wuji](https://github.com/NeteaseFuxiRL/wuji) |
 
-## Dynamic Operator Selection
+</details>
+
+### Dynamic Operator Selection
 
 This branch was empty in the previous README. Survey v5 identifies sixteen methods.
+
+<details open markdown="1">
+<summary><strong>Browse all 16 methods</strong></summary>
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -223,9 +305,14 @@ This branch was empty in the previous README. Survey v5 identifies sixteen metho
 | MOEA/D-DQN | [Deep Reinforcement Learning Based Adaptive Operator Selection for Evolutionary Multi-Objective Optimization](https://doi.org/10.1109/TETCI.2022.3146882) | IEEE TETCI 2023 | Not found |
 | AMODE-DRL | [Scheduling of Continuous Annealing with a Multi-Objective Differential Evolution Algorithm Based on Deep Reinforcement Learning](https://doi.org/10.1109/TASE.2023.3244331) | IEEE T-ASE 2024 | Not found |
 
-## Hyperparameter Configuration
+</details>
+
+### Hyperparameter Configuration
 
 Survey v5 contains: `AGA`, `LTO`, `RL-DAC`, `REM`, `Q-LSHADE & DQ-HSES`, `MADAC`, `qlDE`, and `RLDE`.
+
+<details open markdown="1">
+<summary><strong>Browse all 8 methods</strong></summary>
 
 | Method | Paper | Code |
 |---|---|---|
@@ -238,7 +325,12 @@ Survey v5 contains: `AGA`, `LTO`, `RL-DAC`, `REM`, `Q-LSHADE & DQ-HSES`, `MADAC`
 | qlDE | [Q-Learning-Based Parameter Control in Differential Evolution for Structural Optimization](https://doi.org/10.1016/j.asoc.2021.107464) | Not found |
 | RLDE | [Reinforcement Learning-Based Differential Evolution for Parameters Extraction of Photovoltaic Models](https://doi.org/10.1016/j.egyr.2021.01.096) | Not found |
 
-## Other RL-assisted EA methods
+</details>
+
+### Other RL-assisted EA methods
+
+<details open markdown="1">
+<summary><strong>Browse all 7 methods</strong></summary>
 
 | Method | Paper | Code |
 |---|---|---|
@@ -250,11 +342,16 @@ Survey v5 contains: `AGA`, `LTO`, `RL-DAC`, `REM`, `Q-LSHADE & DQ-HSES`, `MADAC`
 | LPO | [Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) | [luchris429/discovered-policy-optimisation](https://github.com/luchris429/discovered-policy-optimisation) |
 | TA-LPG / TA-LPO | [Discovering Temporally-Aware RL Algorithms](https://arxiv.org/abs/2402.05828) | [EmptyJackson/groove](https://github.com/EmptyJackson/groove) |
 
-# Synergistic Optimization of EA and RL
+</details>
+
+## Synergistic Optimization of EA and RL
 
 EA and RL both contribute directly to solving the task, either in a shared solution space or through decomposed subproblems.
 
-## Single-Agent Optimization
+### Single-Agent Optimization
+
+<details open markdown="1">
+<summary><strong>Browse all 14 methods</strong></summary>
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -273,7 +370,9 @@ EA and RL both contribute directly to solving the task, either in a shared solut
 | EvoRainbow-Exp | [EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search](https://openreview.net/forum?id=75Hes6Zse4) | ICML 2024 | [yeshenpy/EvoRainbow](https://github.com/yeshenpy/EvoRainbow) |
 | CORE | [CORE: Collaborative Optimization with Reinforcement Learning and Evolutionary Algorithm for Floorplanning](https://papers.neurips.cc/paper_files/paper/2025/hash/cc0f00fd7c873fe2b196529e19b1a6bf-Abstract-Conference.html) | NeurIPS 2025 | [yeshenpy/CORE](https://github.com/yeshenpy/CORE) |
 
-## Multi-Agent Optimization
+</details>
+
+### Multi-Agent Optimization
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -283,9 +382,12 @@ EA and RL both contribute directly to solving the task, either in a shared solut
 | EMARL | [Cooperation and Competition: Flocking with Evolutionary Multi-Agent Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23) | ICONIP 2022 | Not found |
 | RACE | [RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution](https://proceedings.mlr.press/v202/li23r.html) | ICML 2023 | [yeshenpy/RACE](https://github.com/yeshenpy/RACE) |
 
-## Reward Design
+### Reward Design
 
 This branch is new relative to the previous README. LLM-based evolutionary search has made reward design a major ERL direction.
+
+<details open markdown="1">
+<summary><strong>Browse all 8 methods</strong></summary>
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -298,7 +400,9 @@ This branch is new relative to the previous README. LLM-based evolutionary searc
 | LERO | [LERO: LLM-Driven Evolutionary Framework with Hybrid Rewards and Enhanced Observation for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2503.21807) | ICIC 2025 | Not found |
 | ReMAC | [ReMAC: Large Language Model-Driven Reward Design for Multi-Agent Manipulation Collaboration](https://openreview.net/forum?id=CWYWhLho0a) | NeurIPS Workshop 2025 | [Project](https://remac-manicraft.github.io/) |
 
-## Morphological Evolution
+</details>
+
+### Morphological Evolution
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -309,7 +413,7 @@ This branch is new relative to the previous README. LLM-based evolutionary searc
 | TAME | [Task-Agnostic Morphology Evolution](https://arxiv.org/abs/2102.13100) | ICLR 2021 | [jhejna/morphology-opt](https://github.com/jhejna/morphology-opt) |
 | Encoding study | [How the Morphology Encoding Influences the Learning Ability in Body-Brain Co-Optimization](https://doi.org/10.1145/3583131.3590429) | GECCO 2023 | Not found |
 
-## Interpretable AI
+### Interpretable AI
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -320,7 +424,7 @@ This branch is new relative to the previous README. LLM-based evolutionary searc
 | SIRL | [Social Interpretable Reinforcement Learning](https://doi.org/10.1007/978-3-031-90065-5_1) | EvoApplications 2025 | Not found |
 | SVI | [Symbolic Regression Methods for Reinforcement Learning](https://arxiv.org/abs/1903.09688) | IEEE Access 2021 | Not found |
 
-## Learning Classifier Systems
+### Learning Classifier Systems
 
 | Method | Paper | Venue | Code |
 |---|---|---|---|
@@ -330,7 +434,7 @@ This branch is new relative to the previous README. LLM-based evolutionary searc
 | XCSF with tile coding | [XCSF with Tile Coding in Discontinuous Action-Value Landscapes](https://link.springer.com/article/10.1007/s12065-015-0129-7) | Evolutionary Intelligence 2015 | Not found |
 | DGP-XCSF | [Dynamical Genetic Programming in XCSF](https://doi.org/10.1162/EVCO_a_00080) | Evolutionary Computation 2013 | Not found |
 
-# Frameworks, benchmarks, and tooling
+## Frameworks, benchmarks, and tooling
 
 | Resource | Scope | Paper | Code |
 |---|---|---|---|
@@ -340,11 +444,11 @@ This branch is new relative to the previous README. LLM-based evolutionary searc
 | QD skill discovery | Comparing neuroevolution and RL for skill discovery | [Paper](https://openreview.net/forum?id=6BHlZgyPOZY) | [instadeepai/qd-skill-discovery-benchmark](https://github.com/instadeepai/qd-skill-discovery-benchmark) |
 | EvoGym | Co-design benchmark for soft robots | [Paper](https://arxiv.org/abs/2201.09863) | [EvolutionGym/evogym](https://github.com/EvolutionGym/evogym) |
 
-# Recent and emerging directions
+## Recent and emerging directions
 
 Accepted papers are separated from preprints and active submissions.
 
-## Published or accepted
+### Published or accepted
 
 - **ERLAP** - [Evolutionary Reinforcement Learning with Parameterized Action Primitives for Diverse Manipulation Tasks](https://ojs.aaai.org/index.php/AAAI/article/view/33606), AAAI 2025.
 - **CORE** - [CORE: Collaborative Optimization with Reinforcement Learning and Evolutionary Algorithm for Floorplanning](https://papers.neurips.cc/paper_files/paper/2025/hash/cc0f00fd7c873fe2b196529e19b1a6bf-Abstract-Conference.html), NeurIPS 2025, [code](https://github.com/yeshenpy/CORE).
@@ -353,21 +457,21 @@ Accepted papers are separated from preprints and active submissions.
 - **HELIX** - [Evolutionary Reinforcement Learning for Open-Ended Scientific Problem Solving](https://openreview.net/forum?id=2CHz6NYBmd), ICLR 2026.
 - **JEDi** - [Quality with Just Enough Diversity in Evolutionary Policy Search](https://doi.org/10.1145/3638529.3654047), GECCO 2024, pages 105-113.
 
-## Preprints and watchlist
+### Preprints and watchlist
 
 - **Differentiable Evolutionary Reinforcement Learning** - [arXiv:2512.13399](https://arxiv.org/abs/2512.13399), [code](https://github.com/sitaocheng/DERL). Status: preprint.
 - **Lifelong Control through Neuro-Evolution** - [OpenReview](https://openreview.net/forum?id=7CHE4RZYNm). Status: submitted work.
 
-# Related surveys
+## Related surveys
 
 - [Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms](https://arxiv.org/abs/2401.11963)
 - [Evolutionary Reinforcement Learning: A Survey](https://arxiv.org/abs/2303.04150)
 - [Reinforcement Learning-Assisted Evolutionary Algorithm: A Survey and Research Opportunities](https://arxiv.org/abs/2308.13420)
 - [Combining Evolution and Deep Reinforcement Learning for Policy Search: A Survey](https://arxiv.org/abs/2203.14009)
 
-# Contributing
+## Contributing
 
-Please open an issue or pull request with:
+Please [open an issue](https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning/issues) or pull request with:
 
 1. the paper title and BibTeX;
 2. an official paper URL (publisher, proceedings, arXiv, or OpenReview);
@@ -377,7 +481,7 @@ Please open an issue or pull request with:
 
 To keep the list reliable, unofficial mirrors, generic search pages, and paper pages mislabeled as code will not be added.
 
-# Citation
+## Citation
 
 ```bibtex
 @article{li2025bridging,

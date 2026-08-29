@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Official companion repository for the evolutionary reinforcement learning survey</title>
+  <desc id="desc">A professional academic banner connecting evolutionary algorithms, reinforcement learning, and ERL research resources.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07172c"/>
+      <stop offset=".52" stop-color="#123762"/>
+      <stop offset="1" stop-color="#1d4f91"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5ee7ff"/>
+      <stop offset=".52" stop-color="#9b8cff"/>
+      <stop offset="1" stop-color="#ff8fc7"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".04"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1015" cy="146" r="230" fill="url(#halo)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="58" y="38" width="302" height="32" rx="16" fill="#60a5fa" fill-opacity=".12" stroke="#7dd3fc" stroke-opacity=".44"/>
+    <circle cx="79" cy="54" r="4" fill="#67e8f9"/>
+    <text x="94" y="59" fill="#bfdbfe" font-size="12" font-weight="700" letter-spacing="2">OFFICIAL COMPANION REPOSITORY</text>
+    <text x="58" y="132" fill="#fff" font-size="48" font-weight="730" letter-spacing="-.7">Evolutionary</text>
+    <text x="58" y="187" fill="#fff" font-size="48" font-weight="730" letter-spacing="-.7">Reinforcement Learning</text>
+    <text x="61" y="229" fill="#b9d8ff" font-size="16" letter-spacing=".5">Survey taxonomy  ·  Papers  ·  Verified code  ·  Benchmarks</text>
+    <text x="61" y="264" fill="#7dd3fc" font-size="12" font-weight="650" letter-spacing="1.8">FROM READING THE SURVEY TO STARTING NEW ERL RESEARCH</text>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M832 94C897 42 1003 50 1058 113" stroke="#5ee7ff" stroke-opacity=".2" stroke-width="18" filter="url(#glow)"/>
+    <path d="M832 94C897 42 1003 50 1058 113" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M1067 179C1035 247 928 261 860 209" stroke="#ff8fc7" stroke-opacity=".18" stroke-width="18" filter="url(#glow)"/>
+    <path d="M1067 179C1035 247 928 261 860 209" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M856 209L871 207L864 194" stroke="#7dd3fc" stroke-width="4"/>
+    <path d="M1058 113L1044 110L1050 124" stroke="#f9a8d4" stroke-width="4"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <circle cx="843" cy="93" r="43" fill="#0b2647" stroke="#67e8f9" stroke-width="2"/>
+    <text x="843" y="89" fill="#a5f3fc" font-size="13" font-weight="700" letter-spacing="1.5">EA</text>
+    <text x="843" y="108" fill="#dbeafe" font-size="10">SEARCH</text>
+    <circle cx="1065" cy="174" r="43" fill="#0b2647" stroke="#f9a8d4" stroke-width="2"/>
+    <text x="1065" y="170" fill="#fbcfe8" font-size="13" font-weight="700" letter-spacing="1.5">RL</text>
+    <text x="1065" y="189" fill="#fce7f3" font-size="10">LEARNING</text>
+    <circle cx="951" cy="148" r="57" fill="#173d70" stroke="url(#accent)" stroke-width="3"/>
+    <circle cx="951" cy="148" r="46" fill="none" stroke="#fff" stroke-opacity=".12"/>
+    <text x="951" y="145" fill="#fff" font-size="28" font-weight="760">ERL</text>
+    <text x="951" y="167" fill="#c7d2fe" font-size="10" font-weight="650" letter-spacing="1.4">HYBRID RESEARCH</text>
+  </g>
+  <g fill="#bfdbfe" fill-opacity=".7">
+    <circle cx="790" cy="242" r="3"/>
+    <circle cx="1129" cy="87" r="3"/>
+    <circle cx="1112" cy="241" r="2"/>
+    <circle cx="764" cy="116" r="2"/>
+  </g>
+</svg>
