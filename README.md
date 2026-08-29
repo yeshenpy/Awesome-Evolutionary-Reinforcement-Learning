@@ -19,7 +19,7 @@
 
 **Evolutionary Reinforcement Learning (ERL)** combines the global search and population diversity of evolutionary algorithms with the learning efficiency and decision-making capabilities of reinforcement learning. This collection is organized to move readers quickly from the survey taxonomy to papers, implementations, and open research directions.
 
-[**Read the survey**](https://arxiv.org/abs/2401.11963) · [**Browse the taxonomy**](#taxonomy) · [**Start from code**](#code-first-reading-list) · [**See recent work**](#recent-and-emerging-directions)
+[**Read the survey**](https://arxiv.org/abs/2401.11963) · [**Browse the taxonomy**](#taxonomy) · [**中文 / English reading guides**](READING_GUIDES.md) · [**Start from code**](#code-first-reading-list) · [**See recent work**](#recent-and-emerging-directions)
 
 </div>
 
@@ -46,6 +46,7 @@
 ### Quick paths
 
 **Need reproducible baselines?** Start from the [code-first list](#code-first-reading-list) and [frameworks](#frameworks-benchmarks-and-tooling).<br>
+**Need an explanation first?** Use the [bilingual, work-by-work reading guide](READING_GUIDES.md), covering all 123 distinct works.<br>
 **Tracking the newest work?** Go to [recent and emerging directions](#recent-and-emerging-directions).
 
 > [!NOTE]
@@ -54,6 +55,7 @@
 <details markdown="1">
 <summary><strong>Changelog</strong></summary>
 
+- **29 Aug 2026** — added a bilingual, work-by-work [reading guide](READING_GUIDES.md) after independent Chinese and English searches and two-pass link review.
 - **28 Aug 2026** — synchronized the collection with arXiv v5; added Reward Design, Dynamic Operator Selection, missing QD methods, recent 2024–2026 work, verified code repositories, frameworks, and updated taxonomy figures.
 - **26 Jul 2024** — the survey was accepted by *IEEE Transactions on Evolutionary Computation*.
 
@@ -65,6 +67,7 @@
 - [Overview](#overview)
 - [Taxonomy](#taxonomy)
 - [Survey versions](#survey-versions)
+- [Bilingual reading guides](READING_GUIDES.md)
 - [Code-first reading list](#code-first-reading-list)
 - [EA-assisted Optimization of RL](#ea-assisted-optimization-of-rl)
   - [EA-assisted Parameter Search](#ea-assisted-parameter-search)
