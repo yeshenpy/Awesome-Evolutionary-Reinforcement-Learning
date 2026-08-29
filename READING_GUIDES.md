@@ -5,7 +5,7 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 > [!IMPORTANT]
 > This guide separates **Core** explanations from **Extended** material. Core entries provide a substantial, work-specific explanation. Extended entries include focused overview sections, project documentation, broader thesis chapters, posters, and talk slides.
 
-**Coverage after independent search and citation review (29 Aug 2026):** 123 distinct works reviewed · **56** works with at least one verified explanation · **25** with Chinese material · **50** with English material · **91** verified links.
+**Coverage after independent search and citation review (29 Aug 2026):** 123 distinct works reviewed · **54** works with at least one verified explanation · **27** with Chinese material · **45** with English material · **86** verified work-link mappings across **80** unique URLs.
 
 `—` means that no reliable work-specific explanation passed review. It does not mean the paper or code is unavailable.
 
@@ -47,7 +47,7 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 | **OMPAC** | [Paper](https://arxiv.org/abs/1702.07490) | — | — |
 | **PBT** | [Paper](https://arxiv.org/abs/1711.09846) | **Core** · [《Population Based Training of Neural Networks》论文解读](https://www.cnblogs.com/initial-h/p/10519150.html) · <sub>Technical article</sub><br>**Core** · [前沿 \| DeepMind提出新型超参数最优化方法：性能超越手动调参和贝叶斯优化](https://cloud.tencent.com/developer/article/1120056) · <sub>Research news</sub> | **Core** · [Population Based Training of Neural Networks](https://deepmind.google/blog/population-based-training-of-neural-networks/) · <sub>Author article</sub><br>*Extended* · [A Guide to Population Based Training with Tune](https://docs.ray.io/en/latest/tune/examples/pbt_guide.html) · <sub>Documentation</sub> |
 | **SEARL** | [Paper](https://arxiv.org/abs/2009.01555) | — | *Extended* · [Sample-Efficient Automated Deep Reinforcement Learning](https://github.com/automl/SEARL) · <sub>Project / docs</sub> |
-| **GA-DRL** | [Paper](https://arxiv.org/abs/2203.00141) | — | *Extended* · [Genetic Algorithm-Based Function Optimizer in DRL for Robotic Manipulation](https://github.com/aralab-unr/ga-drl-aubo-ara-lab) · <sub>Project / docs</sub> |
+| **GA-DRL** | [Paper](https://arxiv.org/abs/2203.00141) | — | — |
 | **AAC** | [Paper](https://arxiv.org/abs/2106.08918) | — | — |
 | **OHT-ES** | [Paper](https://arxiv.org/abs/2006.07554) | — | — |
 
@@ -59,12 +59,12 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 | **DQNClipped / DQNReg** | [Paper](https://arxiv.org/abs/2101.03958) | — | **Core** · [Evolving Reinforcement Learning Algorithms](https://research.google/blog/evolving-reinforcement-learning-algorithms/) · <sub>Author article</sub><br>**Core** · [Implementing DQNClipped and DQNReg with Stable Baselines](https://medium.com/aureliantactics/implementing-dqnclipped-and-dqnreg-with-stable-baselines-4e3f02160466) · <sub>Technical article</sub> |
 | **GP-MAXQ** | [Paper](https://faculty.cc.gatech.edu/~hic/hic-papers/04141056.pdf) | — | *Extended* · [Embodied Evolution of Learning Ability — evolutionary development of hierarchical learning structures](https://www.csc.kth.se/utbildning/forskar/avhandlingar/doktor/2007/ElfwingStefan.pdf) · <sub>Author thesis</sub> |
 | **PNS-RL** | [Paper](https://arxiv.org/abs/1811.10264) | — | — |
-| **Go-Explore** | [Paper](https://arxiv.org/abs/1901.10995) | **Core** · [[论文] Go-Explore](https://zhkmxx9302013.github.io/2019-04-20_%E8%AE%BA%E6%96%87GoExplore.html) · <sub>Technical article</sub><br>**Core** · [First return, then explore.](https://ldy-php.mysxl.cn/blog/first-return-then-explore) · <sub>Technical article</sub> | **Core** · [Montezuma’s Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too)](https://www.uber.com/blog/go-explore/) · <sub>Author article</sub><br>*Extended* · [Exploration Strategies in Deep Reinforcement Learning](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/) · <sub>Overview section</sub> |
+| **Go-Explore** | [Paper](https://arxiv.org/abs/1901.10995) | **Core** · [[论文] Go-Explore](https://zhkmxx9302013.github.io/2019-04-20_%E8%AE%BA%E6%96%87GoExplore.html) · <sub>Technical article</sub><br>**Core** · [First return, then explore.](https://ldy-php.mysxl.cn/blog/first-return-then-explore) · <sub>Technical article</sub> | **Core** · [Montezuma’s Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too)](https://www.uber.com/mo/en/blog/go-explore/) · <sub>Author article</sub><br>*Extended* · [Exploration Strategies in Deep Reinforcement Learning](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/) · <sub>Overview section</sub> |
 | **G2N** | [Paper](https://arxiv.org/abs/1903.01886) | — | — |
 | **EVO-RL** | [Paper](https://arxiv.org/abs/2007.04725) | — | — |
 | **ROMANCE** | [Paper](https://arxiv.org/abs/2305.05909) | — | — |
-| **MA3C** | [Paper](https://arxiv.org/abs/2305.05116) | **Core** · [FCS 文章精要：南京大学俞扬教授团队——基于可适应多智能体辅助对抗生成的鲁棒性多智能体通信算法](https://paper.sciencenet.cn/htmlpaper/2024/9/2024929131546688121562.shtm) · <sub>Research news</sub> | — |
-| **EPC** | [Paper](https://arxiv.org/abs/2003.10423) | — | *Extended* · [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://github.com/qian18long/epciclr2020) · <sub>Project / docs</sub><br>*Extended* · [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning (thesis)](https://publications.ri.cmu.edu/storage/publications/2020/05/Qian_Long_thesis.pdf) · <sub>Thesis / lecture</sub> |
+| **MA3C** | [Paper](https://doi.org/10.1007/s11704-023-2733-5) | *Extended* · [FCS 文章精要：南京大学俞扬教授团队——基于可适应多智能体辅助对抗生成的鲁棒性多智能体通信算法](https://paper.sciencenet.cn/htmlpaper/2024/9/2024929131546688121562.shtm) · <sub>Research news</sub> | — |
+| **EPC** | [Paper](https://arxiv.org/abs/2003.10423) | — | *Extended* · [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning (thesis)](https://publications.ri.cmu.edu/storage/publications/2020/05/Qian_Long_thesis.pdf) · <sub>Thesis / lecture</sub> |
 | **MAPPER** | [Paper](https://arxiv.org/abs/2007.15724) | *Extended* · [多智能体路径规划技术研究综述](https://journal.bjut.edu.cn/bjgydxxb/article/doi/10.11936/bjutxb2023020021) · <sub>Overview section</sub> | — |
 | **EvIL** | [Paper](https://arxiv.org/abs/2406.11905) | — | *Extended* · [EvIL: Evolution Strategies for Generalisable Imitation Learning](https://github.com/SilviaSapora/evil) · <sub>Project / docs</sub> |
 
@@ -75,7 +75,7 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 | Work | Paper | 中文讲解 | English guide |
 |---|---|---|---|
 | **NGGP** | [Paper](https://arxiv.org/abs/2111.00053) | — | *Extended* · [Deep Symbolic Optimization](https://github.com/dso-org/deep-symbolic-optimization) · <sub>Project / docs</sub> |
-| **RL-guided GA** | [Paper](https://doi.org/10.1016/j.knosys.2021.106836) | — | *Extended* · [RL-Informed Evolution Strategies (PPO-ES)](https://neorl.readthedocs.io/en/latest/modules/neuroevolu/ppoes.html) · <sub>Documentation</sub> |
+| **RL-guided GA** | [Paper](https://doi.org/10.1016/j.knosys.2021.106836) | — | — |
 | **DeepACO** | [Paper](https://arxiv.org/abs/2309.14032) | **Core** · [DeepACO Neural-enhanced Ant Systems for Combinatorial Optimization](https://birdie-go.github.io/2024/01/20/DeepACO-Neural-enhanced-Ant-Systems-for-Combinatorial-Optimization/) · <sub>Technical article</sub><br>**Core** · [〖论文笔记〗DeepACO Neural-enhanced Ant Systems for Combinatorial Optimization](https://peterliuzhi.top/posts/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0deepaco-neural-enhanced-ant-systems-for-combinatorial-optimization/) · <sub>Technical article</sub> | *Extended* · [DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization](https://github.com/henry-yeh/DeepACO) · <sub>Project / docs</sub> |
 
 ### Population Evaluation
@@ -93,10 +93,10 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 | **GPO** | [Paper](https://arxiv.org/abs/1711.01012) | — | *Extended* · [Policy Optimization by Genetic Distillation](https://tgangwani.github.io/data/GPO_poster.pdf) · <sub>Author poster</sub> |
 | **CEM-RL** | [Paper](https://arxiv.org/abs/1810.01222) | *Extended* · [EvoRainbow：演化强化学习策略搜索的集大成者](https://zhuanlan.zhihu.com/p/704285528) · <sub>Overview section</sub> | *Extended* · [Evolution Strategies — CEM-RL](https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/) · <sub>Overview section</sub> |
 | **CEM-ACER** | [Paper](https://dl.acm.org/doi/10.5555/3463952.3464104) | — | — |
-| **PBRL** | [Paper](https://ieeexplore.ieee.org/document/9660084) | — | *Extended* · [Population-Based Reinforcement Learning](https://github.com/jjccero/pbrl) · <sub>Project / docs</sub> |
-| **NS-RL** | [Paper](https://ieeexplore.ieee.org/document/9139203) | — | — |
+| **PBRL** | [Paper](https://ieeexplore.ieee.org/document/9660084) | — | — |
+| **NS-RL** | [Paper](https://ieeexplore.ieee.org/document/9139203) | *Extended* · [在线深度强化学习探索策略生成方法综述](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.230252) · <sub>Overview section</sub> | — |
 | **DEPRL** | [Paper](https://doi.org/10.1155/2021/5300189) | — | — |
-| **QD-RL** | [Paper](https://arxiv.org/abs/2006.08505v1) | — | — |
+| **QD-RL** | [Paper](https://arxiv.org/abs/2006.08505v1) | *Extended* · [在线深度强化学习探索策略生成方法综述](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.230252) · <sub>Overview section</sub> · <sub>Legacy arXiv title/version</sub> | — |
 | **PGA-ME** | [Paper](https://doi.org/10.1145/3449639.3459304) | — | *Extended* · [Optimizing with PGAME in JAX](https://qdax.readthedocs.io/en/latest/examples/pgame/) · <sub>Documentation</sub> |
 | **GAC QD-RL** | [Paper](https://arxiv.org/abs/2303.06164) | — | — |
 | **CMA-MEGA** | [Paper](https://arxiv.org/abs/2202.03666) | — | *Extended* · [Approximating Gradients for Differentiable Quality Diversity in Reinforcement Learning](https://dqd-rl.github.io/) · <sub>Project / docs</sub><br>*Extended* · [Differentiable Quality Diversity in Reinforcement Learning (GECCO slides)](https://slides.btjanaka.net/dqd-rl-gecco/) · <sub>Thesis / lecture</sub> |
@@ -143,12 +143,12 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 | Work | Paper | 中文讲解 | English guide |
 |---|---|---|---|
 | **Grad-CEM** | [Paper](https://proceedings.mlr.press/v120/bharadhwaj20a.html) | — | — |
-| **LOOP** | [Paper](https://arxiv.org/abs/2008.10066) | — | **Core** · [LOOP: Learning Off-Policy with Online Planning](https://blog.ml.cmu.edu/2022/01/07/loop/) · <sub>Author article</sub><br>*Extended* · [LOOP: Learning Off-Policy with Online Planning](https://github.com/hari-sikchi/LOOP) · <sub>Project / docs</sub> |
+| **LOOP** | [Paper](https://arxiv.org/abs/2008.10066) | — | **Core** · [LOOP: Learning Off-Policy with Online Planning](https://blog.ml.cmu.edu/2022/01/07/loop/) · <sub>Author article</sub> |
 | **TD-MPC** | [Paper](https://arxiv.org/abs/2203.04955) | **Core** · [TD-MPC：世界模型如何用于机器人控制？](https://worldsensetech.com/zh/articles/td-mpc-world-model-control/) · <sub>Technical article</sub> | *Extended* · [Implicit World Model — TD-MPC](https://leeyngdo.github.io/blog/reinforcement-learning/2024-10-07-implicit-world-model/) · <sub>Overview section</sub><br>*Extended* · [TD-MPC Official Implementation](https://github.com/nicklashansen/tdmpc) · <sub>Project / docs</sub> |
 | **RGP** | [Paper](https://doi.org/10.1023/A:1011953410319) | — | — |
 | **GNP-RL** | [Paper](https://doi.org/10.1162/evco.2007.15.3.369) | — | — |
-| **LPO** | [Paper](https://arxiv.org/abs/2210.05639) | *Extended* · [切换JAX，强化学习速度提升4000倍，牛津大学开源框架PureJaxRL，训练只需GPU](https://www.36kr.com/p/2214990783558275) · <sub>Overview section</sub> | *Extended* · [Discovered Policy Optimisation](https://github.com/luchris429/discovered-policy-optimisation) · <sub>Project / docs</sub> |
-| **TA-LPG / TA-LPO** | [Paper](https://arxiv.org/abs/2402.05828) | — | *Extended* · [Discovering Temporally-Aware Reinforcement Learning Algorithms](https://github.com/EmptyJackson/groove) · <sub>Project / docs</sub> |
+| **LPO** | [Paper](https://arxiv.org/abs/2210.05639) | *Extended* · [切换JAX，强化学习速度提升4000倍，牛津大学开源框架PureJaxRL，训练只需GPU](https://www.36kr.com/p/2214990783558275) · <sub>Overview section</sub> | — |
+| **TA-LPG / TA-LPO** | [Paper](https://arxiv.org/abs/2402.05828) | — | — |
 
 ## Synergistic Optimization of EA and RL
 
@@ -156,7 +156,7 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 
 | Work | Paper | 中文讲解 | English guide |
 |---|---|---|---|
-| **ERL** | [Paper](https://arxiv.org/abs/1805.07917) | *Extended* · [ICLR 2023：融合演化算法与强化学习进行策略搜索的新 SOTA](https://zhuanlan.zhihu.com/p/601231924) · <sub>Overview section</sub> | *Extended* · [Evolution + Deep RL — Using Evolution to Optimize Policies](https://master-dac.isir.upmc.fr/rl/evo%2Brl_policies.pdf) · <sub>Thesis / lecture</sub><br>*Extended* · [Evolution-Guided Policy Gradient in Reinforcement Learning](https://github.com/ShawK91/Evolutionary-Reinforcement-Learning) · <sub>Project / docs</sub> |
+| **ERL** | [Paper](https://arxiv.org/abs/1805.07917) | — | *Extended* · [Evolution + Deep RL — Using Evolution to Optimize Policies](https://master-dac.isir.upmc.fr/rl/evo%2Brl_policies.pdf) · <sub>Thesis / lecture</sub><br>*Extended* · [Evolution-Guided Policy Gradient in Reinforcement Learning](https://github.com/ShawK91/Evolutionary-Reinforcement-Learning) · <sub>Project / docs</sub> |
 | **CERL** | [Paper](https://arxiv.org/abs/1905.00976) | — | **Core** · [Greedy AI Agents Learn to Cooperate](https://spectrum.ieee.org/reinforcement-learning) · <sub>Research news</sub> |
 | **PDERL** | [Paper](https://arxiv.org/abs/1906.09807) | *Extended* · [EvoRainbow：演化强化学习策略搜索的集大成者](https://zhuanlan.zhihu.com/p/704285528) · <sub>Overview section</sub> | — |
 | **GEATL** | [Paper](https://doi.org/10.1145/3449726.3463142) | — | — |
@@ -171,7 +171,7 @@ A bilingual, work-by-work guide to explanatory material for the papers and metho
 
 | Work | Paper | 中文讲解 | English guide |
 |---|---|---|---|
-| **MERL** | [Paper](https://arxiv.org/abs/1906.07315) | — | **Core** · [Greedy AI Agents Learn to Cooperate](https://spectrum.ieee.org/reinforcement-learning) · <sub>Research news</sub> |
+| **MERL** | [Paper](https://arxiv.org/abs/1906.07315) | **Core** · [文献分享 \| 《ICML2020:基于样本效率的多智能体协同进化强化学习》](https://pilab.xmu.edu.cn/info/1258/2657.htm) · <sub>Technical article</sub> | **Core** · [Greedy AI Agents Learn to Cooperate](https://spectrum.ieee.org/reinforcement-learning) · <sub>Research news</sub> |
 | **NS-MERL** | [Paper](https://dl.acm.org/doi/10.1145/3583131.3590428) | — | — |
 | **CEMARL** | [Paper](https://ieeexplore.ieee.org/document/10191313) | — | — |
 | **EMARL** | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-30105-6_23) | — | — |
